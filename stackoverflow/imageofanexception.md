@@ -9,11 +9,11 @@ In your question, you indicated that there was an exception thrown when your cod
 ###Why this is a problem
 Pasting a picture of your exception is not helpful. You do not have to prove your code threw an Exception with a picture of it--we trusted you when you stated this fact within your question.
 
-![The exception dialog](images/stackoverflow/exceptionimage1.PNG)
+![The exception dialog](/images/stackoverflow/exceptionimage1.PNG)
 
 Pictures of Exceptions that shows some of the detail contained within the exception *are also not helpful.*
 
-![Viewing the details of the exception](images/stackoverflow/exceptionimage2.PNG)
+![Viewing the details of the exception](/images/stackoverflow/exceptionimage2.PNG)
 
 ###Why this is worth a downvote
 One of the first things people do when trying to help someone with an exception is *they copy text from the exception and paste it into their favorite search engine*. When you put an image of the exception into your question, you force people who are trying to help you--*for free*--**to transcribe the exception from your image**. Not only is this an annoying waste of time, but also it can result in transcription errors and reduce the chance that the search is successful.
@@ -28,7 +28,7 @@ Instead of taking a picture of the exception, **get a text report of all of the 
 ####Visual Studio and .NET
 If you are debugging in Visual Studio, the Exception Helper Dialog contains a link that will copy all exception details to the clipboard 
 
-![The link to copy exception details to the clipboard on the exception helper dialog](images/stackoverflow/exceptionimage3.PNG)
+![The link to copy exception details to the clipboard on the exception helper dialog](/images/stackoverflow/exceptionimage3.PNG)
 
 If you are experiencing the Exception at runtime, you can [catch the exception](http://stackoverflow.com/questions/9526139/how-to-catch-exceptions) and call 'ToString()' on it. Log the result, using whatever method is most convenient for you.
 
