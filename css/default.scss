@@ -1,0 +1,84 @@
+// @import 'reset';
+
+// $primary-color: #1e1e1e;
+// $primary-background-color: #c1c1c1;
+// $primary-font: 'Open Sans', sans-serif; 
+// $special-font: 'Helvetica Neue', sans-serif;
+// $padding: 18px;
+
+// body{    
+//     font-family: $primary-font;
+//     color: $primary-color; 
+// }
+
+// h1 { 
+//     font-family: $special-font;
+//     font-size: 96px; 
+//     font-weight: bold; 
+//     letter-spacing: -1px; 
+//     line-height: 1; 
+// }
+
+// h2 { 
+//     font-size: 30px; 
+//     font-weight: 300; 
+//     line-height: 32px; 
+// }
+// h3 { 
+//     font-size: 24px; 
+//     font-weight: 300; 
+//     line-height: 32px; 
+//     text-decoration: underline;
+// }
+// h4 { 
+//     font-size: 18px; 
+//     font-style: italic;
+//     font-weight: 300; 
+//     line-height: 32px; 
+// }
+
+// p { 
+//     background-color: $primary-background-color;
+//     font-family: 'Helvetica Neue', sans-serif; 
+//     font-size: 14px; 
+//     line-height: 24px; 
+//     margin: 0 0 24px; 
+//     text-align: justify; 
+//     text-justify: inter-word; 
+// }
+
+// .block{
+//   background-color: $primary-background-color;
+//   padding: $padding; 
+// }
+// header{
+//   @extend .block;
+// }
+// .page-byline{
+
+// }
+// .logo {
+//   position: absolute;
+//   height: 36px;
+//   width: 36px;
+//   right: $padding;
+//   top: $padding;
+//   display: block;
+//   background: url(images/octocat-logo.png);  
+// }
+// .content{
+
+// }
+// footer{
+//   @extend .block;
+//   position:absolute;
+//   bottom: 0px;
+//   right:0px;
+//   left:0px;
+// }
+// .call-to-action{
+
+// }
+// .who-to-downvote{
+
+// }
