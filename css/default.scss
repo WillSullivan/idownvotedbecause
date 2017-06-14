@@ -51,10 +51,10 @@ footer{
   display: block;
   background: url(images/octocat-logo.png);  
 }
-a : link {
+a:link {
     color: $lighter-accent-color;
 }
-a : visited{
+a:visited{
     color: $darker-accent-color;
 }
 a:hover{
