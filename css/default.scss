@@ -12,7 +12,7 @@ $padding: 18px;
 body{    
     font-family: $primary-font;
     font-size: 20px;
-    margin: 0px 20%;
+    margin:0px;
     //color: $primary-color; 
 }
 .bannerBlock{  
@@ -27,6 +27,9 @@ header{
 footer{
   @extend .bannerBlock;
   font-size:12px;
+}
+.content{
+    margin: 0px 20%;
 }
 .logo {
   position: absolute;
