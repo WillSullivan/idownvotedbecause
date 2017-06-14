@@ -7,6 +7,9 @@
 $primary-font: 'Open Sans', sans-serif; 
 $special-font: 'Helvetica Neue', sans-serif;
 $highlight-color: #006FFF;
+$lighter-accent-color: #006FFF;
+$lighter-accent-color-hover: #008B68;
+$darker-accent-color: #1F00FF;
 $padding: 18px;
 
 body{    
@@ -34,6 +37,7 @@ header h2{
 footer{
   @extend .bannerBlock;
   font-size:12px;
+  padding: $padding / 4;
 }
 .content{
     margin: 0px 20%;
@@ -47,7 +51,15 @@ footer{
   display: block;
   background: url(images/octocat-logo.png);  
 }
-
+a : link {
+    color: $lighter-accent-color;
+}
+a : visited{
+    color: $darker-accent-color;
+}
+a:hover{
+    color: $lighter-accent-color-hover;
+}
 // h1 { 
 //     font-family: $special-font;
 //     font-size: 96px; 
