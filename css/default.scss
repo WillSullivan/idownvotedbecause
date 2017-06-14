@@ -17,19 +17,16 @@ body{
 }
 .bannerBlock{  
   font-family: $special-font;
-  position: absolute;
-  left:0px;
-  right:0px;
+  width:100%;
   background-color: $highlight-color;
   color: #FFFFFF;
 }
 header{
   @extend .bannerBlock;
-  top:0px;
 }
 footer{
   @extend .bannerBlock;
-  bottom:0px;
+  font-size:12px;
 }
 .logo {
   position: absolute;
