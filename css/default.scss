@@ -1,15 +1,34 @@
 // @import 'reset';
 
-// $primary-color: #1e1e1e;
-// $primary-background-color: #c1c1c1;
-// $primary-font: 'Open Sans', sans-serif; 
-// $special-font: 'Helvetica Neue', sans-serif;
-// $padding: 18px;
+//$primary-color: #1e1e1e;
+//$primary-background-color: #c1c1c1;
+$primary-font: 'Open Sans', sans-serif; 
+$special-font: 'Helvetica Neue', sans-serif;
+$highlight-color: #006FFF;
+$padding: 18px;
 
-// body{    
-//     font-family: $primary-font;
-//     color: $primary-color; 
-// }
+body{    
+    font-family: $primary-font;
+    font-size: 20px;
+    margin: 0px 20%;
+    //color: $primary-color; 
+}
+.bannerBlock{  
+  font-family: $special-font;
+  position: absolute;
+  left:0px;
+  right:0px;
+  background-color: $highlight-color;
+  color: #FFFFFF;
+}
+header{
+  @extend .bannerBlock;
+  top:0px;
+}
+footer{
+  @extend .bannerBlock;
+  bottom:0px;
+}
 
 // h1 { 
 //     font-family: $special-font;
