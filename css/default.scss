@@ -1,3 +1,5 @@
+---
+---
 // @import 'reset';
 
 //$primary-color: #1e1e1e;
@@ -28,6 +30,15 @@ header{
 footer{
   @extend .bannerBlock;
   bottom:0px;
+}
+.logo {
+  position: absolute;
+  height: 36px;
+  width: 36px;
+  right: $padding;
+  top: $padding;
+  display: block;
+  background: url(images/octocat-logo.png);  
 }
 
 // h1 { 
@@ -75,15 +86,6 @@ footer{
 // }
 // .page-byline{
 
-// }
-// .logo {
-//   position: absolute;
-//   height: 36px;
-//   width: 36px;
-//   right: $padding;
-//   top: $padding;
-//   display: block;
-//   background: url(images/octocat-logo.png);  
 // }
 // .content{
 
