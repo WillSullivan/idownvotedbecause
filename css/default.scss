@@ -5,7 +5,7 @@
 //$primary-color: #1e1e1e;
 //$primary-background-color: #c1c1c1;
 $primary-font: 'Open Sans', sans-serif; 
-$special-font: 'Helvetica Neue', sans-serif;
+$special-font: 'Rubik', sans-serif;
 $highlight-color: #006FFF;
 $lighter-accent-color: #006FFF;
 $lighter-accent-color-hover: #008B68;
@@ -13,10 +13,10 @@ $darker-accent-color: #1F00FF;
 $padding: 18px;
 
 body{    
-    font-family: $primary-font;
-    font-size: 20px;
-    margin:0;
-    //color: $primary-color; 
+  font-family: $primary-font;
+  font-size: 20px;
+  margin:0;
+  //color: $primary-color; 
 }
 .bannerBlock{  
   font-family: $special-font;
@@ -32,33 +32,43 @@ header h1{
   margin: 0;
 }
 header h2{
-  margin: $padding / 2;
+  margin-left: $padding;
 }
 footer{
   @extend .bannerBlock;
   font-size:12px;
   padding: $padding / 4;
+  background: black;
+  text-align: center;
+}
+footer a:visited{
+  color: $lighter-accent-color;
 }
 .content{
-    margin: 0px 20%;
+  margin: 0px 20%;
 }
 .logo {
   position: absolute;
-  height: 36px;
-  width: 36px;
+  height: 54px;
+  width: 54px;
   right: $padding;
   top: $padding;
   display: block;
   background: url(images/octocat-logo.png);  
 }
 a:link {
-    color: $lighter-accent-color;
+  color: $lighter-accent-color;
 }
 a:visited{
-    color: $darker-accent-color;
+  color: $darker-accent-color;
 }
 a:hover{
-    color: $lighter-accent-color-hover;
+  color: $lighter-accent-color-hover;
+}
+img{
+  box-shadow: -4px 4px 0px 4px rgba(0,0,0,.5);
+  -webkit-box-shadow: -4px 4px 0px 4px rgba(0,0,0,.5);
+  -moz-box-shadow: -4px 4px 0px 4px rgba(0,0,0,.5);
 }
 // h1 { 
 //     font-family: $special-font;
