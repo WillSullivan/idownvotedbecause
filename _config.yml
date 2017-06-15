@@ -9,6 +9,9 @@ markdown: kramdown
 permalink: pretty
 baseurl: /idownvotedbecause
 
+#categories
+categories: [ "Stack Overflow" ]
+
 gems:
   - jekyll-redirect-from
   - jekyll-feed

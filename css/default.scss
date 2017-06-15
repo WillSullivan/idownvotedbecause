@@ -33,6 +33,7 @@ header h1{
 }
 header h2{
   margin-left: $padding;
+  font-family: $primary-font;
 }
 footer{
   @extend .bannerBlock;
@@ -40,6 +41,8 @@ footer{
   padding: $padding / 4;
   background: black;
   text-align: center;
+  margin-top: $padding;
+  font-family: $primary-font;
 }
 footer a:visited{
   color: $lighter-accent-color;
@@ -49,8 +52,8 @@ footer a:visited{
 }
 .logo {
   position: absolute;
-  height: 54px;
-  width: 54px;
+  height: 36px;
+  width: 36px;
   right: $padding;
   top: $padding;
   display: block;
