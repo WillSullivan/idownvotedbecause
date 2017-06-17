@@ -28,13 +28,26 @@ body{
 header{
   @extend .bannerBlock;
   padding: $padding;
+  h1{
+    margin: 0;  
+    a:visited{
+      @extend .no-linky;
+    }
+    a:link{
+      @extend .no-linky;
+    }
+    a:visited{
+    color: $lighter-accent-color-hover;
+    }
+  }
+  h2{
+    margin: 0 0 0 $padding;
+    font-family: $primary-font;
+  }
 }
-header h1{
-  margin: 0;
-}
-header h2{
-  margin: 0 0 0 $padding;
-  font-family: $primary-font;
+.no-linky{
+  color: #FFFFFF;
+  text-decoration: underline;
 }
 footer{
   @extend .bannerBlock;
@@ -44,9 +57,9 @@ footer{
   text-align: center;
   margin-top: $padding;
   font-family: $primary-font;
-}
-footer a:visited{
-  color: $lighter-accent-color;
+  a:visited{
+    color: $lighter-accent-color;
+  }
 }
 .content{
   margin: $body-margin;
