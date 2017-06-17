@@ -15,6 +15,7 @@ category-list: [ "Stack Overflow" ]
 gems:
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-sitemap
 
 defaults:
   - scope: 
