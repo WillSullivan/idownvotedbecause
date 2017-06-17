@@ -3,7 +3,7 @@ leyout: default
 title: I downvoted because...
 byline: all of these reasons...
 ---
-{% for cat in site.categories %}
+{% for cat in site.category-list %}
 ### {{ cat }}
 <ul>
   {% for page in site.pages %}
