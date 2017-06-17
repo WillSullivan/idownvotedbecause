@@ -30,6 +30,5 @@ That way, your issue can be quickly identified by experienced users and solved i
 
 Take the time to format your code properly!  If your code is messy, it makes it harder for others to understand what it is doing.  [You can find help formatting your question here.](https://stackoverflow.com/help/formatting)
 
-            
-
-            
+## Leave a comment!
+Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.

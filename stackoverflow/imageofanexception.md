@@ -35,3 +35,6 @@ If you are experiencing the Exception at runtime, you can [catch the exception](
 
 ### What to do next
 Once you have gathered all the details from the exception, you can paste it into your question in an edit. **This is important**--do not try to paste the exception details into a comment, as there is not enough room for all the of details. There is an "edit" link at the bottom of your question, click it and paste the details into your question. And don't forget to format it!
+
+## Leave a comment!
+Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.

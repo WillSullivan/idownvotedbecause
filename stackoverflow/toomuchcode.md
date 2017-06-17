@@ -27,3 +27,6 @@ If you are worried that something you have removed may play a part in your issue
 The now minimal code can be used to replace the noisy code through an edit. You can find an edit link at the bottom of your question.
 
 Now your code can be quickly read, understood, and fixed by answerers. Future readers will be able to notice at a glimpse if their issue relates or not to your issue.
+
+## Leave a comment!
+Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.
