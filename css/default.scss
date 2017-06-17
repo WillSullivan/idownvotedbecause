@@ -58,7 +58,13 @@ footer{
   margin-top: $padding;
   font-family: $primary-font;
   a:visited{
-    color: $lighter-accent-color;
+    @extend .no-linky;
+  }
+  a:hover{
+    @extend .no-linky;
+  }
+  a:link{
+    @extend .no-linky;
   }
 }
 .content{
