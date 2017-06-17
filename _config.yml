@@ -10,7 +10,7 @@ permalink: pretty
 baseurl: /idownvotedbecause
 
 #categories
-category-list: [ stackoverflow ]
+category-list: [ "Stack Overflow" ]
 
 gems:
   - jekyll-redirect-from

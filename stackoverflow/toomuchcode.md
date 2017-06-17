@@ -2,7 +2,7 @@
 title: Too much code
 byline: a wall of code isn't helpful
 permalink: toomuchcode/
-categories: stackoverflow
+categories: "Stack Overflow"
 ---
 # Please include the _minimum amount of code_ in your question needed to illustrate your problem.
 Like the proverbial needle in the haystack, you've made it hard for people to find the error in your code.
