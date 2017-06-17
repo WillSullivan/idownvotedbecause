@@ -2,7 +2,7 @@
 title: No code
 byline: without code, it is very hard to help you
 permalink: nocode/
-categories: "Stack Overflow"
+categories: stackoverflow
 ---
 # It's hard to answer a programming question without code
 
