@@ -11,6 +11,7 @@ $lighter-accent-color: #006FFF;
 $lighter-accent-color-hover: #008B68;
 $darker-accent-color: #1F00FF;
 $padding: 18px;
+$body-margin: 0px 20%;
 
 body{    
   font-family: $primary-font;
@@ -48,7 +49,10 @@ footer a:visited{
   color: $lighter-accent-color;
 }
 .content{
-  margin: 0px 20%;
+  margin: $body-margin;
+}
+.call-to-action{  
+  margin: $body-margin;
 }
 .logo {
   position: absolute;
