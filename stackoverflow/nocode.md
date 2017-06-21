@@ -22,7 +22,7 @@ It also shows that not much effort was put into writing the question. Remember, 
 
 Edit the post to add a Minimal, Complete, Verifiable Example (see [the Stack Overflow help center](http://stackoverflow.com/help/mcve) for details on how to do this).
 
-The code should not be [directly copy/pasted](http://idownvotedyoubecause.com/so/TooMuchCode) from your editor or IDE! Instead, it should be cut down to only keep the parts essential to identify and reproduce the issue.
+The code should not be [directly copy/pasted](http://idownvotedyoubecau.se/so/TooMuchCode) from your editor or IDE! Instead, it should be cut down to only keep the parts essential to identify and reproduce the issue.
 
 That way, your issue can be quickly identified by experienced users and solved in their answers. These answers will be of higher quality and relate better to the issue posted, drawing more attention to the question (and more upvotes for you). Future readers will be able to quickly identify if the root cause of the issue relates to them.
 
