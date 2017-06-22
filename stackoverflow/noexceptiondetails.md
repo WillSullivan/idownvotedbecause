@@ -15,7 +15,7 @@ Exceptions contain lots of information--information we need to determine what is
 * The [stack trace](https://en.wikipedia.org/wiki/Stack_trace)
 * All inner Exceptions, their types, messages, and stack traces
 
-Please note, pictures of Exceptions that shows some of the detail contained within the exception [_are also not helpful_](/imageofanexception/). Please, do not take an image of your Exception and paste it into an edit!
+Please note, pictures of Exceptions that shows some of the detail contained within the exception [_are also not helpful_]({% link stackoverflow/imageofanexcecption.md %}). Please, do not take an image of your Exception and paste it into an edit!
 
 ![Viewing the details of the exception](/images/stackoverflow/exceptionimage3.PNG)
 
@@ -23,7 +23,7 @@ Please note, pictures of Exceptions that shows some of the detail contained with
 Exceptions contain almost all of the information we, the people trying to help you, need in order to give you a quick answer. When you do not give us this information, we must examine your question in hopes to find clues to the information that would have been readily available had you included Exception details in your question. This is, in short, a waste of our time.
 
 ### How to fix this
-Get a text report of all of the contents within it. Remember, the details of the Exception should be captured as text--[do not take an image of the Exception details!](/imageofanexception/) This can usually be accomplished very easy, depending on what language and tools you are using. Here are some examples of capturing these details.
+Get a text report of all of the contents within it. Remember, the details of the Exception should be captured as text--[do not take an image of the Exception details!]({% link stackoverflow/imageofanexcecption.md %}) This can usually be accomplished very easy, depending on what language and tools you are using. Here are some examples of capturing these details.
 
 #### Visual Studio and .NET
 
