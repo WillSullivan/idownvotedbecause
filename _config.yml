@@ -7,7 +7,6 @@ description: "A website designed to help you help others"
 # Build settings
 markdown: kramdown
 permalink: pretty
-baseurl: /idownvotedbecause
 
 #categories
 category-list: [ "Stack Overflow" ]
@@ -18,7 +17,7 @@ gems:
   - jekyll-sitemap
 
 defaults:
-  - scope: 
+  - scope:
       path: ""
     values:
       layout: default
