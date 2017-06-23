@@ -11,10 +11,16 @@ $lighter-accent-color: #006FFF;
 $lighter-accent-color-hover: #008B68;
 $darker-accent-color: #1F00FF;
 $padding: 18px;
-$body-margin: 0 20%;
 
-@media (max-width: 768px) {
-  $body-margin: 0 1em !global;
+@mixin mobile {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+@mixin desktop {
+  @media (min-width: 769px) {
+    @content;
+  }
 }
 
 body{
@@ -80,13 +86,24 @@ footer{
     @extend .no-linky;
   }
 }
-.content{
-  margin: $body-margin;
-}
-.call-to-action{
-  margin: $body-margin;
+
+.call-to-action {
   flex: 1;
 }
+@include mobile {
+  .content, .call-to-action {
+    margin: 1em;
+  }
+}
+
+@include desktop {
+  .content, .call-to-action {
+    min-width: 725px;
+    width: 60%;
+    margin: 1em auto;
+  }
+}
+
 .logo {
   position: absolute;
   height: 36px;
