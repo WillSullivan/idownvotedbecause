@@ -12,7 +12,9 @@ It should also be clear on the sections that should be included, their order, an
 
 ## Tone
 
-Be conscious of the tone of your topic. Talk about the problem as if it was its own entity, not the result of what the person you downvoted did.  Be careful of sounding accusatory towards an individual person, rather speak of any person in a similar situation. And try not to use the passive voice _too_ much. State facts as they exist.
+Be conscious of the tone of your topic. Talk about the problem as if it was its own entity, not the result of what any specific person did. If you aren't sure what this means, check the history of this document for an example. 
+
+Be careful of sounding accusatory towards an individual person, rather speak of any person in a similar situation. And try not to use the passive voice _too_ much. State facts as they exist.
 
 ## images
 
