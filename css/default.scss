@@ -4,32 +4,40 @@
 
 //$primary-color: #1e1e1e;
 //$primary-background-color: #c1c1c1;
-$primary-font: 'Open Sans', sans-serif; 
+$primary-font: 'Open Sans', sans-serif;
 $special-font: 'Lalezar', cursive, sans-serif;
 $highlight-color: #006FFF;
 $lighter-accent-color: #006FFF;
 $lighter-accent-color-hover: #008B68;
 $darker-accent-color: #1F00FF;
 $padding: 18px;
-$body-margin: 0px 20%;
+$body-margin: 0 20%;
 
-body{    
+@media (max-width: 768px) {
+  $body-margin: 0 1em !global;
+}
+
+body{
   font-family: $primary-font;
   font-size: 20px;
   margin:0;
-  //color: $primary-color; 
+  //color: $primary-color;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
-.bannerBlock{  
+.bannerBlock{
   font-family: $special-font;
   width:100%;
-  background-color: $highlight-color;
+  background-color: black;
   color: #FFFFFF;
+  box-sizing: border-box;
 }
 header{
   @extend .bannerBlock;
-  padding: $padding;
+  padding: 8.5px $padding;
   h1{
-    margin: 0;  
+    margin: 0;
     a:visited{
       @extend .no-linky;
     }
@@ -45,6 +53,11 @@ header{
     font-family: $primary-font;
   }
 }
+
+p {
+  word-break: break-word;
+}
+
 .no-linky{
   color: #FFFFFF;
   text-decoration: underline;
@@ -52,7 +65,7 @@ header{
 footer{
   @extend .bannerBlock;
   font-size:12px;
-  padding: $padding / 4;
+  padding: $padding / 2;
   background: black;
   text-align: center;
   margin-top: $padding;
@@ -70,8 +83,9 @@ footer{
 .content{
   margin: $body-margin;
 }
-.call-to-action{  
+.call-to-action{
   margin: $body-margin;
+  flex: 1;
 }
 .logo {
   position: absolute;
@@ -80,61 +94,81 @@ footer{
   right: $padding;
   top: $padding;
   display: block;
-  background: url(images/octocat-logo.png);  
+  background: url(images/octocat-logo.png);
 }
 a:link {
   color: $lighter-accent-color;
 }
-a:visited{
+a:visited {
   color: $darker-accent-color;
 }
-a:hover{
+a:hover {
   color: $lighter-accent-color-hover;
 }
-img{
+img {
   box-shadow: -4px 4px 0px 4px rgba(0,0,0,.5);
-  -webkit-box-shadow: -4px 4px 0px 4px rgba(0,0,0,.5);
-  -moz-box-shadow: -4px 4px 0px 4px rgba(0,0,0,.5);
+  max-width: 100%;
 }
-// h1 { 
+h1, .page-byline {
+  display: inline-block;
+}
+
+blockquote {
+  background: #eee;
+  margin: 1em 0;
+  padding: 0.01em 1em;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+
+  p {
+    word-break: keep-all;
+  }
+}
+
+@media (max-width: 768px) {
+  .github-corner {
+    display: none;
+  }
+}
+// h1 {
 //     font-family: $special-font;
-//     font-size: 96px; 
-//     font-weight: bold; 
-//     letter-spacing: -1px; 
-//     line-height: 1; 
+//     font-size: 96px;
+//     font-weight: bold;
+//     letter-spacing: -1px;
+//     line-height: 1;
 // }
 
-// h2 { 
-//     font-size: 30px; 
-//     font-weight: 300; 
-//     line-height: 32px; 
+// h2 {
+//     font-size: 30px;
+//     font-weight: 300;
+//     line-height: 32px;
 // }
-// h3 { 
-//     font-size: 24px; 
-//     font-weight: 300; 
-//     line-height: 32px; 
+// h3 {
+//     font-size: 24px;
+//     font-weight: 300;
+//     line-height: 32px;
 //     text-decoration: underline;
 // }
-// h4 { 
-//     font-size: 18px; 
+// h4 {
+//     font-size: 18px;
 //     font-style: italic;
-//     font-weight: 300; 
-//     line-height: 32px; 
+//     font-weight: 300;
+//     line-height: 32px;
 // }
 
-// p { 
+// p {
 //     background-color: $primary-background-color;
-//     font-family: 'Helvetica Neue', sans-serif; 
-//     font-size: 14px; 
-//     line-height: 24px; 
-//     margin: 0 0 24px; 
-//     text-align: justify; 
-//     text-justify: inter-word; 
+//     font-family: 'Helvetica Neue', sans-serif;
+//     font-size: 14px;
+//     line-height: 24px;
+//     margin: 0 0 24px;
+//     text-align: justify;
+//     text-justify: inter-word;
 // }
 
 // .block{
 //   background-color: $primary-background-color;
-//   padding: $padding; 
+//   padding: $padding;
 // }
 // header{
 //   @extend .block;
