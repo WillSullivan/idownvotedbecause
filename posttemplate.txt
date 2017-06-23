@@ -1,0 +1,21 @@
+---
+title: [This goes in the tab of the browser page]
+byline: [I downvoted because... whatever you put here will appear in the header]
+permalink: shouldbeashortdescriptionofyourpageinlowercaseendinginaforwardslash/
+categories: [The category should match one in _config.yml under category-types, like "Stack Overflow"]
+---
+## The main thrust of your page
+In this paragraph, give the user the tl;dr lowdown
+
+### Why this is a problem
+In this section, detail why the post has problems
+
+### Why this is worth a downvote
+In this section, you can describe why the problem is worth a downvote within the community in which it was posted
+
+### What to do next
+In this section, cover how the problem can be fixed.
+
+The following paragraph should be added as is to the bottom of all pages:
+## Leave a comment!
+Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.
