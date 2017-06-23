@@ -24,6 +24,24 @@ You can browse our current list of reasons, sorted by community, [here](/allreas
 
 Can't find your specific reason? Is it worth sharing with others? Read below!
 
-## You can help make this website better! 
+## All the reasons
+Here's the current list of all pages, sorted by community!  Not finding something you want? [See below to learn how to get it!](#call-to-action)
+
+{% for cat in site.category-list %}
+### {{ cat }}
+<ul>
+  {% for page in site.pages %}
+    {% for pc in page.categories %}
+      {% if pc == cat %}
+        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      {% endif %}   <!-- cat-match-p -->
+    {% endfor %}  <!-- page-category -->
+  {% endfor %}  <!-- page -->
+</ul>
+{% endfor %}  <!-- cat -->
+
+<small>*Special thanks to [mrenaud and his answer here](https://stackoverflow.com/a/17913214/1228) for making this section possible.*</small>
+
+## You can help make this website better!
 This website is hosted on [GitHub](https://github.com/WillSullivan/IDownvotedBecause) and served via [GitHub Pages](https://pages.github.com/). This means that if you have a GitHub account you can request changes, updates, and even new pages.  You can do this by [submitting an Issue at GitHub](https://github.com/WillSullivan/IDownvotedYouBecause/issues/new). You can even add them yourself by [forking](https://help.github.com/articles/fork-a-repo/) the website's repository and make the changes as you see fit. Once completed, you can send me, [@willSullivan](https://github.com/willSullivan), a [pull request](https://help.github.com/articles/using-pull-requests/) to add your changes to the website.
 
