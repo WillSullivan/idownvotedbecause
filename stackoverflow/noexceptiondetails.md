@@ -1,14 +1,14 @@
 ---
-title: No exception details
+title: Missing exception details
 byline: your question is missing exception details
 permalink: noexceptiondetails/
 categories: "Stack Overflow"
 ---
-## We need all Exception details to help you!
-In your question, you indicated that there was an exception thrown when your code executes. That's good information that we need to help you find a solution. However, in order to find that solution, **we need to know the details that can be found within the exception.** If your question lacks this detailed exception information, it becomes harder for us to help you.
+## We need ALL Exception details to help you!
+In your question, you indicated that there was an exception thrown when your code executes. That's good information that we need to help you find a solution. However, in order to find that solution, **we need to know ALL the details that can be found within the exception.** If a question lacks this detailed exception information, it becomes harder for us to help. 
 
 ### Why this is a problem
-Exceptions contain lots of information--information we need to determine what is going on in your code. This information includes:
+The question contained only a part or none of this information, making it harder or impossible to help. Exceptions contain lots of information--information we need to determine what is going on in your code. This information includes:
 
 * The Type of the Exception
 * The Exception message
@@ -20,7 +20,7 @@ Please note, pictures of Exceptions that shows some of the detail contained with
 ![Viewing the details of the exception](/images/stackoverflow/exceptionimage3.PNG)
 
 ### Why this is worth a downvote
-Exceptions contain almost all of the information we, the people trying to help you, need in order to give you a quick answer. When you do not give us this information, we must examine your question in hopes to find clues to the information that would have been readily available had you included Exception details in your question. This is, in short, a waste of our time.
+Exceptions contain almost all of the information we, the people trying to help you, need in order to give you a quick answer. When you do not give us this information, we must examine your question in hopes to find clues to the information that would have been readily available had you included Exception details in your question. This wastes the time of people who (for free!) are volunteering to help.
 
 ### How to fix this
 Get a text report of all of the contents within it. Remember, the details of the Exception should be captured as text--[do not take an image of the Exception details!]({% link stackoverflow/imageofanexception.md %}) This can usually be accomplished very easy, depending on what language and tools you are using. Here are some examples of capturing these details.
