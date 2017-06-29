@@ -4,7 +4,7 @@ byline: [I downvoted because... whatever you put here will appear in the header]
 permalink: shouldbeashortdescriptionofyourpageinlowercaseendinginaforwardslash/
 categories: [The category should match one in _config.yml under category-types, like "Stack Overflow"]
 ---
-## [Replace this title with the main thrust of your page]s {#introduction}
+## [Replace this title with the main thrust of your page] {#introduction}
 {::comment}In this paragraph, give the user the tl;dr lowdown. {:/}
 
 ### Why this is a problem {#whythisisaproblem}
