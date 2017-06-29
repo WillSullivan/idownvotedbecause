@@ -30,5 +30,10 @@ That way, your issue can be quickly identified by experienced users and solved i
 
 Take the time to format your code properly!  If your code is messy, it makes it harder for others to understand what it is doing.  [You can find help formatting your question here.](https://stackoverflow.com/help/formatting)
 
-## Leave a comment!
+
+## Leave a comment! {#leaveacomment}
 Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.
+
+## Did this page help you?
+This website is here for everyone's benefit, most importantly yours! If this did <i>not</i> help you, or if you would
+like to leave feedback, please **[create an Issue regarding this page on GitHub,](https://github.com/WillSullivan/IDownvotedBecause/issues/new) or [submit an improvement directly.](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})**
