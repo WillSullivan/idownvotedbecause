@@ -4,18 +4,23 @@ byline: [I downvoted because... whatever you put here will appear in the header]
 permalink: shouldbeashortdescriptionofyourpageinlowercaseendinginaforwardslash/
 categories: [The category should match one in _config.yml under category-types, like "Stack Overflow"]
 ---
-## The main thrust of your page
-In this paragraph, give the user the tl;dr lowdown
+## [Replace this title with the main thrust of your page]s {#introduction}
+{::comment}In this paragraph, give the user the tl;dr lowdown. {:/}
 
-### Why this is a problem
-In this section, detail why the post has problems
+### Why this is a problem {#whythisisaproblem}
+{::comment}In this section, detail why the post has problems{:/}
 
-### Why this is worth a downvote
-In this section, you can describe why the problem is worth a downvote within the community in which it was posted
+### Why this is worth a downvote {#whythisisworthadownvote}
+{::comment}In this section, you can describe why the problem is worth a downvote within the community in which it was posted{:/}
 
-### What to do next
-In this section, cover how the problem can be fixed.
+### What to do next {#whattodonext}
+{::comment}In this section, cover how the problem can be fixed.{:/}
 
-The following paragraph should be added as is to the bottom of all pages:
-## Leave a comment!
+{::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
+## Leave a comment! {#leaveacomment}
 Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.
+
+## Did this page help you?
+This website is here for everyone's benefit, most importantly yours! If this did <i>not</i> help you, or if you would
+like to leave feedback, please <b>[create an Issue regarding this page on GitHub,](https://github.com/WillSullivan/IDownvotedBecause/issues/new) or [submit an improvement directly.](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})</b>
+
