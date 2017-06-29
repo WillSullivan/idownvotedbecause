@@ -28,5 +28,9 @@ The now minimal code can be used to replace the noisy code through an edit. You 
 
 Now your code can be quickly read, understood, and fixed by answerers. Future readers will be able to notice at a glimpse if their issue relates or not to your issue.
 
-## Leave a comment!
+## Leave a comment! {#leaveacomment}
 Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.
+
+## Did this page help you?
+This website is here for everyone's benefit, most importantly yours! If this did <i>not</i> help you, or if you would
+like to leave feedback, please **[create an Issue regarding this page on GitHub,](https://github.com/WillSullivan/IDownvotedBecause/issues/new) or [submit an improvement directly.](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})**
