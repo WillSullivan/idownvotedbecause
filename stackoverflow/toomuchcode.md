@@ -1,21 +1,21 @@
----
+ ---
 title: Too much code
 byline: a wall of code isn't helpful
 permalink: toomuchcode/
 categories: "Stack Overflow"
 ---
-# Please include the _minimum amount of code_ in your question needed to illustrate your problem.
+## Please include the _minimum amount of code_ in your question needed to illustrate your problem {#introduction}
 Like the proverbial needle in the haystack, you've made it hard for people to find the error in your code.
 
-# Why this is a problem
+## Why this is a problem {#whythisisaproblem}
 There is a huge code block inside your question. Your real problem lies only in a few instructions, and most of the code posted is completely irrelevant to the resolution of your issue. It only serves as noise, and makes it harder for those trying to answer your question.
 
-# Why this is worth a downvote
+## Why this is worth a downvote {#whythisisworthadownvote}
 The noise generated from all the code surrounding the error prevents future users from relating your question and the answer to their own issue. It also makes it much harder for anyone to determine what the problem is.  That makes your question less likely to get an answer, and wastes the time of anyone who tries to help you. The question is effectively only useful to the asker, is less likely to get answered, and offers little or no value whatsoever to the community as a whole.
 
 It also shows that not much effort was put into creating your question. People are volunteering their time, _free of charge_, to help you. You need to be considerate of their efforts. One of the easiest, and most helpful, ways to do this is to pare down your code to the minimum needed to illustrate your problem.
 
-# What you can do to fix this
+## What to do next {#whattodonext}
 Isolate the issue, and create a Minimal, Complete, Verifiable example ([see the StackOverflow help center for more details](http://stackoverflow.com/help/mcve)). Such an example is generally only a few lines of code, like a function or a database request.
 
 The code should be debugged to identify _the precise spot at which the issue occurs_. It should then either be rewritten from scratch until the issue reappears or the original code should be largely cut through to remove working pieces which are not directly related to the issue.
