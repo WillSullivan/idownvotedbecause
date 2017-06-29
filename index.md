@@ -20,7 +20,7 @@ This website hosts one page per reason for a downvote. Each reason has its own U
 
 When you wish to let someone know why you downvoted and how they could reverse it, simply leave a link to the relevant page.
 
-## All the reasons
+## All the reasons*
 Here's the current list of all pages, sorted by community!  Not finding something you want? [See below to learn how to get it!](#call-to-action)
 
 {% for cat in site.category-list %}
@@ -36,7 +36,7 @@ Here's the current list of all pages, sorted by community!  Not finding somethin
 </ul>
 {% endfor %}  <!-- cat -->
 
-<small>*Special thanks to [mrenaud and his answer here](https://stackoverflow.com/a/17913214/1228) for making this section possible.*</small>
-
 ## You can help make this website better!
 This website is hosted on [GitHub](https://github.com/WillSullivan/IDownvotedBecause) and served via [GitHub Pages](https://pages.github.com/). This means that if you have a GitHub account you can request changes, updates, and even new pages.  You can do this by [submitting an Issue at GitHub](https://github.com/WillSullivan/IDownvotedYouBecause/issues/new). You can even add them yourself by [forking](https://help.github.com/articles/fork-a-repo/) the website's repository and make the changes as you see fit. Once completed, you can send me, [@willSullivan](https://github.com/willSullivan), a [pull request](https://help.github.com/articles/using-pull-requests/) to add your changes to the website.
+
+<small><small>**Special thanks to [mrenaud and his answer here](https://stackoverflow.com/a/17913214/1228) for making this section possible.*</small></small>
