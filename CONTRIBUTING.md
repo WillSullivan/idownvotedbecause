@@ -20,3 +20,5 @@ Be careful of sounding accusatory towards an individual person, rather speak of 
 
 Images should be stored under /images in a subfolder by community (the same as the one you are posting about). Try to keep images as small as possible, focusing on what is important. We don't want to see your browser tabs. Also, images without freehand circles will be rejected. More freehand circles, pls.
 
+## Markdown
+The site uses Kramdown for markdown processing. It's got some special features over and above standard markdown. [Here's a quick reference guide to its syntax.](https://kramdown.gettalong.org/quickref.html#html-elements-1)
