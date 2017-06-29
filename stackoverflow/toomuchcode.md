@@ -1,4 +1,4 @@
- ---
+---
 title: Too much code
 byline: a wall of code isn't helpful
 permalink: toomuchcode/
