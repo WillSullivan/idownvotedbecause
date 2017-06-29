@@ -1,6 +1,6 @@
 ---
-title: Picture of an exception
-byline: a picture of your exception isn't helpful
+title: Image of an exception
+byline: an image of your exception isn't helpful
 permalink: imageofanexception/
 categories: "Stack Overflow"
 ---
