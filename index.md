@@ -20,10 +20,6 @@ This website hosts one page per reason for a downvote. Each reason has its own U
 
 When you wish to let someone know why you downvoted and how they could reverse it, simply leave a link to the relevant page.
 
-You can browse our current list of reasons, sorted by community, [here](/allreasons/).
-
-Can't find your specific reason? Is it worth sharing with others? Read below!
-
 ## All the reasons
 Here's the current list of all pages, sorted by community!  Not finding something you want? [See below to learn how to get it!](#call-to-action)
 
