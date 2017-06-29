@@ -7,13 +7,13 @@ categories: [The category should match one in _config.yml under category-types, 
 ## [Replace this title with the main thrust of your page] {#introduction}
 {::comment}In this paragraph, give the user the tl;dr lowdown. {:/}
 
-### Why this is a problem {#whythisisaproblem}
+## Why this is a problem {#whythisisaproblem}
 {::comment}In this section, detail why the post has problems{:/}
 
-### Why this is worth a downvote {#whythisisworthadownvote}
+## Why this is worth a downvote {#whythisisworthadownvote}
 {::comment}In this section, you can describe why the problem is worth a downvote within the community in which it was posted{:/}
 
-### What to do next {#whattodonext}
+## What to do next {#whattodonext}
 {::comment}In this section, cover how the problem can be fixed.{:/}
 
 {::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
