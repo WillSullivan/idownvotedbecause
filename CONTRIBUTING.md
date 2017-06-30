@@ -1,4 +1,4 @@
-## How to help
+I## How to help
 
 To help with the project, start by copying the contents of the [post template](https://github.com/WillSullivan/idownvotedbecause/blob/master/posttemplate.txt) into a new markdown file.
 
