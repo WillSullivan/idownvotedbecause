@@ -33,7 +33,6 @@ If you are debugging in Visual Studio, the Exception Helper Dialog contains a li
 
 If you are experiencing the Exception at runtime, you can [catch the exception](http://stackoverflow.com/questions/9526139/how-to-catch-exceptions) and call `ToString()` on it. Log the result, using whatever method is most convenient for you.
 
-## What to do next
 Once you have gathered all the details from the exception, you can paste it into your question in an edit. **This is important**--do not try to paste the exception details into a _comment_, as there is not enough room for all the of details. There is an "edit" link at the bottom of your question, click it and paste the details into your question. And don't forget to format it!
 
 ## Leave a comment! {#leaveacomment}
