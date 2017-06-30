@@ -16,7 +16,7 @@ The goal for *I Downvoted Because* is to give people an **easy, productive and h
 ## How does this website work?
 This website hosts one page per reason for a downvote. Each reason has its own URL in the format
 
-> IDownvotedBecau.se/ashortdescriptionofwhy
+> idownvotedbecau.se/ashortdescriptionofwhy
 
 When you wish to let someone know why you downvoted and how they could reverse it, simply leave a link to the relevant page.
 
