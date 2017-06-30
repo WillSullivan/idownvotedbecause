@@ -8,7 +8,7 @@ The name of the markdown file should be a very short topic description, and plac
 
 The template should be clear (or clear once you submit a pull request to improve it!) on the front matter components, what they are for, and how they should be configured.
 
-It should also be clear on the sections that should be included, their order, and what they should contain.
+It should also be clear on the sections that should be included, their order, and what they should contain.  Text that should be changed is **[written in brackets]**. Comments on what a section should contain **{::comment}are surrounded by Kramdown comment markup{:/}**, which will not be rendered in the final website. 
 
 ## Subjects
 
