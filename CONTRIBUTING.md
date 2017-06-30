@@ -10,6 +10,10 @@ The template should be clear (or clear once you submit a pull request to improve
 
 It should also be clear on the sections that should be included, their order, and what they should contain.
 
+## Subjects
+
+Acceptable subjects are problems that attract downvotes *that can be reversed*.  If a post is not salvageable (i.e., nothing can be done to reverse the downvote), then the subject probably shouldn't be broached here.  Problems that can only be solved by deleting the post, thereby gaining back lost reputation points, should be kept to an **absolute minimum**.  It is hard to keep a positive and helpful tone when the only thing you can tell someone to do is "delete your post".  These should only be created for extraordinary circumstances.
+
 ## Tone
 
 Be conscious of the tone of your topic. Talk about the problem as if it was its own entity, not the result of what any specific person did. If you aren't sure what this means, check the history of this document for an example. 
