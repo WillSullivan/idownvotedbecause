@@ -14,7 +14,17 @@ It should also be clear on the sections that should be included, their order, an
 
 Be conscious of the tone of your topic. Talk about the problem as if it was its own entity, not the result of what any specific person did. If you aren't sure what this means, check the history of this document for an example. 
 
-Be careful of sounding accusatory towards an individual person, rather speak of any person in a similar situation. And try not to use the passive voice _too_ much. State facts as they exist.
+Be careful of sounding accusatory towards an individual person, rather speak of any person in a similar situation. And try not to use the passive voice _too_ much. Pages must state facts as they exist.
+
+Pages must **not** make asumptions that could shed a dire light on the subject. For example, this is _not acceptable_:
+
+> Homework questions show laziness and often attract downvotes.
+
+This is making the asumption that the user is lazy. Not only does it not help, it can also make readers feel insulted or targeted. Instead:
+
+> Homework questions are often frowned upon by users as they are generally low quality and show little work.
+
+_Again,_ try to avoid targeting users in any way. They are likely to be upset already and feel that they are being personally down-voted. Re-enforcing this felling will not help the website contribute to their learning.
 
 ## images
 
