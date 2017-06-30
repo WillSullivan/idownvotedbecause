@@ -1,4 +1,4 @@
-I## How to help
+## How to help
 
 To help with the project, start by copying the contents of the [post template](https://github.com/WillSullivan/idownvotedbecause/blob/master/posttemplate.txt) into a new markdown file.
 
@@ -30,7 +30,7 @@ This is making the asumption that the user is lazy. Not only does it not help, i
 
 _Again,_ try to avoid targeting users in any way. They are likely to be upset already and feel that they are being personally down-voted. Re-enforcing this felling will not help the website contribute to their learning.
 
-## images
+## Images
 
 Images should be stored under /images in a subfolder by community (the same as the one you are posting about). Try to keep images as small as possible, focusing on what is important. We don't want to see your browser tabs. Also, images without freehand circles will be rejected. More freehand circles, pls.
 
