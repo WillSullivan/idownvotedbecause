@@ -8,16 +8,17 @@ categories: "Stack Overflow"
 In your question, you indicated that there was an exception thrown when your code executes. That's good information that we need to help you find a solution. However, in order to find that solution, **we need to know ALL the details that can be found within the exception.** If a question lacks this detailed exception information, it becomes harder for us to help. 
 
 ## Why this is a problem {#whythisisaproblem}
-The question contained only a part or none of this information, making it harder or impossible to help. Exceptions contain lots of information--information we need to determine what is going on in your code. This information includes:
+The question contained only a part or none of this information, making it harder or impossible to help. Exceptions contain lots of information--information we need to determine what is going on in your code. 
+
+### What details do we need?
+Exceptions contain many details about what happened at the time they are thrown. All this information gives us clues about why the exception was thrown.  Details from the exception that we need are
 
 * The Type of the Exception
 * The Exception message
 * The [stack trace](https://en.wikipedia.org/wiki/Stack_trace)
 * All inner Exceptions, their types, messages, and stack traces
 
-Please note, pictures of Exceptions that shows some of the detail contained within the exception [_are also not helpful_]({% link stackoverflow/imageofanexception.md %}). Please, do not take an image of your Exception and paste it into an edit!
-
-![Viewing the details of the exception](/images/stackoverflow/exceptionimage3.PNG)
+Any one (or more) of these may be needed to properly diagnose your problem. If you don't provide this information, we are forced to guess what might have happened.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
 Exceptions contain almost all of the information we, the people trying to help you, need in order to give you a quick answer. When you do not give us this information, we must examine your question in hopes to find clues to the information that would have been readily available had you included Exception details in your question. This wastes the time of people who (for free!) are volunteering to help.
