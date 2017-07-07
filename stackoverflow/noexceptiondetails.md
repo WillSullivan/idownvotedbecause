@@ -18,7 +18,7 @@ Exceptions contain many details about what happened at the time they are thrown.
 * The [stack trace](https://en.wikipedia.org/wiki/Stack_trace)
 * All inner Exceptions, their types, messages, and stack traces
 
-Any one (or more) of these may be needed to properly diagnose your problem. If you don't provide this information, we are forced to guess what might have happened.
+Any one (or more) of these may be needed to properly diagnose your problem. If you don't provide this information, we are forced to guess what might have happened.  It is often very simple to gather all this information. Keep reading for hints on how to do this.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
 Exceptions contain almost all of the information we, the people trying to help you, need in order to give you a quick answer. When you do not give us this information, we must examine your question in hopes to find clues to the information that would have been readily available had you included Exception details in your question. This wastes the time of people who (for free!) are volunteering to help.
