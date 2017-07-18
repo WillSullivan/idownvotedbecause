@@ -3,6 +3,8 @@ title: No code
 byline: without code, it is very hard to help you
 permalink: nocode/
 categories: "Stack Overflow"
+redirect_from:
+  - /NoCode/
 ---
 ## It's hard to answer a programming question without code {#introduction}
 It's really hard to answer a question about a bug in your code when your question *doesn't include any of the buggy code*. In order to help fix your problem, we are going to have to see what is going on.
