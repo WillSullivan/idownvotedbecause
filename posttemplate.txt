@@ -4,7 +4,7 @@ byline: [I downvoted because... whatever you put here will appear in the header]
 permalink: [should be a short description of your page in lower case with no spaces ending in a forward slash]/
 categories: [The category should match one in _config.yml under category-types, like "Stack Overflow"]
 redirect_from:
-  - [add one or more AlternativeVersionsOfThePermalinkValue with common capltalization variants like camelCase or PascalCases]
+  - [add one or more permalink alternatives with capltalization variants like PascalCase or alternative urls]
 ---
 ## [Replace this title with the main thrust of your page] {#introduction}
 {::comment}In this paragraph, give the user the tl;dr lowdown. {:/}
