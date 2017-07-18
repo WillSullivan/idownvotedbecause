@@ -3,6 +3,11 @@ title: Image of an exception
 byline: an image of your exception isn't helpful
 permalink: imageofanexception/
 categories: "Stack Overflow"
+redirect_from:
+  - /ImageOfAnException/
+  - /Imageofanexception/
+  - /ImageofanException/
+  - /Imageofanexception/
 ---
 ## Pictures of exceptions are not helpful {#introduction}
 In your question, you indicated that there was an exception thrown when your code executes. That's good information that we need to help you find a solution. However, in order to find that solution, we need to know the details that can be found within the exception. If your question lacks this detailed exception information, it becomes harder for us to help you.
