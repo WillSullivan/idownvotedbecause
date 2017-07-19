@@ -10,6 +10,8 @@ The template should be clear (or clear once you submit a pull request to improve
 
 It should also be clear on the sections that should be included, their order, and what they should contain.  Text that should be changed is **[written in brackets]**. Comments on what a section should contain **{::comment}are surrounded by Kramdown comment markup{:/}**, which will not be rendered in the final website. 
 
+Be careful with the yaml front matter. Text can generally be entered without quotes, but if your text contains [yaml special characters](http://yaml.org/spec/1.0/#id2559506) (sorry, that link sucks) you need to surround your text in 'single quotes'.  If your text contains single quotes and the front matter displays atypically in the preview (as code rather than as a table), surround the entire line in single quotes and escape the single quote in your text by doubling it.  E.g., *you don't say* becomes  *'you don''t say'*
+
 ## Subjects
 
 Acceptable subjects are problems that attract downvotes *that can be reversed*.  If a post is not salvageable (i.e., nothing can be done to reverse the downvote), then the subject probably shouldn't be broached here.  Problems that can only be solved by deleting the post, thereby gaining back lost reputation points, should be kept to an **absolute minimum**.  It is hard to keep a positive and helpful tone when the only thing you can tell someone to do is "delete your post".  These should only be created for extraordinary circumstances.
