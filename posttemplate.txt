@@ -1,3 +1,5 @@
+Copy everything below and including the first --- line into your new page
+
 ---
 title: [This goes in the tab of the browser page]
 byline: [I downvoted because... whatever you put here will appear in the header]
