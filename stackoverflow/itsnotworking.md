@@ -8,29 +8,28 @@ redirect_from:
   - noCode/
   - Nocode
 ---
-## It's hard to answer a programming question without code {#introduction}
-It's really hard to answer a question about a bug in your code when your question *doesn't include any of the buggy code*. In order to help fix your problem, we are going to have to see what is going on.
+## "It's not working" is not helpful {#introduction}
+When someone asks a question about a problem with their code, we need to know what is wrong with it. Stating that "it doesn't work" is not helpful.
 
 ## Why this is a problem {#whythisisaproblem}
-You asked a question about an issue in your code.  Perhaps it wasn't giving you the expected outcome, or was not compiling, or maybe when running it threw an exception.  However, you didn not include any relevant code.  Code that people trying to help you could examine to find your error or that could be used to reproduce the problem.
+In order to provide a solution, we need a full description of the problem. That includes
+
+ 1. What you are trying to accomplish
+ 2. What you have tried (including a [minimal, complete, and verifiable example](https://stackoverflow.com/help/mcve))
+ 3. A description of what the code did
+ 4. A description of why this does not achieve your goal
+
+"It didn't work" is not an adequate description for points 3 and/or 4.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
-As it is, the question is barely answerable. Any solution would be based on guesses.  Even if someone guessed right and you got your answer, not providing any code means it's harder to relate for future readers.  Questions that aren't useful for people other than you are discouraged on Stack Overflow.
-
-It also shows that not much effort was put into writing the question. Remember, you are asking people to *help you,* ***free of charge***.  Giving people enough information to answer your question is the least you can do. Failing to do so *wastes other people's time*, and wasting the time of other users who are trying to help is very rude.
+When one of these items is not provided, answerers have to guess what the missing pieces are. That increases the chances that their answers are incorrect, which is a waste of everyone's time. Without enough information to answer a question, experienced users are less likely to attempt to answer, and more likely to downvote. 
 
 ## What to do next {#whattodonext}
-Edit the post to add a Minimal, Complete, Verifiable Example (see [the Stack Overflow help center](http://stackoverflow.com/help/mcve) for details on how to do this).
+Review your question. Did you provide a full description of what the code did? Did you point out the reasons why this result was not correct? Use the edit link at the bottom of your question (do *not* add a comment!) to provide these details. If commenters have asked pointed questions about what happened and why it wasn't correct, make sure to address these questions directly.
 
-The code should not be [directly copy/pasted]({% link stackoverflow/toomuchcode.md %}) from your editor or IDE! Instead, it should be cut down to only keep the parts essential to identify and reproduce the issue.
+If you do not know *why* your code did not work, that suggests you have not debugged it. Debugging is one of the first steps developers take when their code fails, and is an important skill to learn. Not debugging your code is also worth a downvote. To learn why, and for hints on how to debug your code, [click here](http://idownvotedbecau.se/nodebugging/).
 
-That way, your issue can be quickly identified by experienced users and solved in their answers. These answers will be of higher quality and relate better to the issue posted, drawing more attention to the question (and more upvotes for you). Future readers will be able to quickly identify if the root cause of the issue relates to them.
-
-**DO NOT** paste your code into a comment!  Comments cannot be properly formatted, and are not considered a valid place for your code.  There is an "edit" link below your question. Click it and add your code to your question.  
-
-Take the time to format your code properly!  If your code is messy, it makes it harder for others to understand what it is doing.  [You can find help formatting your question here.](https://stackoverflow.com/help/formatting)
-
-
+{::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
 ## Leave a comment! {#leaveacomment}
 Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.
 
