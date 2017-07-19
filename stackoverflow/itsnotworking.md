@@ -1,4 +1,15 @@
 ---
+title: No code
+byline: without code, it is very hard to help you
+permalink: nocode/
+categories: "Stack Overflow"
+redirect_from:
+  - NoCode/
+  - noCode/
+  - Nocode
+---
+
+---
 title: It's not working
 byline: "it's not working" isn't helpful
 permalink: itsnotworking/
