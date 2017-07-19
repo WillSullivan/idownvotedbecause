@@ -1,23 +1,12 @@
 ---
 title: It's not working
-byline: without code, it is very hard to help you
-permalink: nocode/
-categories: "Stack Overflow"
-redirect_from:
-  - NoCode/
-  - noCode/
-  - Nocode
----
-
----
-title: It's not working
-byline: "it's not working" isn't helpful
+byline: '"it's not working" isn't helpful'
 permalink: itsnotworking/
 categories: "Stack Overflow"
 redirect_from:
-  - NoCode/
-  - noCode/
-  - Nocode
+  - ItsNotWorking
+  - itdoesntwork
+  - ItDoesntWork
 ---
 ## "It's not working" is not helpful {#introduction}
 When someone asks a question about a problem with their code, we need to know what is wrong with it. Stating that "it doesn't work" is not helpful.
