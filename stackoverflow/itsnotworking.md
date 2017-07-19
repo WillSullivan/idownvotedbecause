@@ -1,6 +1,6 @@
 ---
 title: It's not working
-byline: \"it's not working\" isn't helpful
+byline: \"it''s not working\" isn''t helpful
 permalink: itsnotworking/
 categories: "Stack Overflow"
 redirect_from:
