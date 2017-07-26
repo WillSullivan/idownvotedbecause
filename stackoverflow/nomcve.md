@@ -27,7 +27,7 @@ Without an MCVE included in a question, it is much harder to answer. This also m
 
 ## What to do next {#whattodonext}
 {::comment}In this section, cover how the problem can be fixed.{:/}
-Create an MCVE!  There are a [nnumber](https://stackoverflow.com/help/mcve) of [tutorials](http://www.sscce.org/) available, some of which are part of larger "how to ask a good question" guides, such as [this one](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) (see the "Sample code and data" section). Read them! They are there to help you.
+Create an MCVE!  There are a [number](https://stackoverflow.com/help/mcve) of [tutorials](http://www.sscce.org/) available, some of which are part of larger "how to ask a good question" guides, such as [this one](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) (see the "Sample code and data" section). Read them! They are there to help you.
 
 Once you have a good grasp of the concept, go back and edit your question. If you have too much code, clean it up! Remove everything that doesn't have to do with the logic that the question asks about. For example, remove empty lines and comments, if not relevant to the question. If the code contains HTML markup, remove CSS and layout details that aren't part of the question. 
 
