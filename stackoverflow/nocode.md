@@ -12,7 +12,7 @@ redirect_from:
 It's really hard to answer a question about a bug in your code when your question *doesn't include any of the buggy code*. In order to help fix your problem, we are going to have to see what is going on.
 
 ## Why this is a problem {#whythisisaproblem}
-You asked a question about an issue in your code.  Perhaps it wasn't giving you the expected outcome, or was not compiling, or maybe when running it threw an exception.  However, you didn not include any relevant code.  Code that people trying to help you could examine to find your error or that could be used to reproduce the problem.
+You asked a question about an issue in your code.  Perhaps it wasn't giving you the expected outcome, or was not compiling, or maybe when running it threw an exception.  However, you did not include any relevant code.  Code that people trying to help you could examine to find your error or that could be used to reproduce the problem.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
 As it is, the question is barely answerable. Any solution would be based on guesses.  Even if someone guessed right and you got your answer, not providing any code means it's harder to relate for future readers.  Questions that aren't useful for people other than you are discouraged on Stack Overflow.
