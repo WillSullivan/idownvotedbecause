@@ -7,7 +7,7 @@ redirect_from:
   - NoDebugging
   - Nodebugging  
 ---
-## There was no effort to debug the code {#introduction}
+## There appears to have been no effort to debug the code {#introduction}
 Debugging code is one of the most important things that a developer can do. When a program's result is unexpected, or when a program crashes at runtime, debugging is a way for a developer to quickly isolate and identify the problem. In the vast majority of cases, once the problem is identified, the solution is clear. But when a develper does not debug their code, the problem becomes much harder to fix.
 
 ## Why this is a problem {#whythisisaproblem}
