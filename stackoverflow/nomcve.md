@@ -15,7 +15,7 @@ A question without any code, or where the code provided is not
  * complete – contains all parts needed to reproduce the problem
  * verifiable – would compile if run, and exhibits the problem described in the question
 cannot be easily, if at all, answered.
-When a code sample exibits these qualities, it is generally referred to as an [MCVE](https://stackoverflow.com/help/mcve).
+When a code sample has these qualities, it is generally referred to as an [MCVE](https://stackoverflow.com/help/mcve).
 
 ## Why this is a problem {#whythisisaproblem}
 {::comment}In this section, detail why the post has problems{:/}
@@ -31,7 +31,7 @@ Create an MCVE!  There are a [number](https://stackoverflow.com/help/mcve) of [t
 
 Once you have a good grasp of the concept, go back and edit your question. If you have too much code, clean it up! Remove everything that doesn't have to do with the logic that the question asks about. For example, remove empty lines and comments, if not relevant to the question. If the code contains HTML markup, remove CSS and layout details that aren't part of the question. 
 
-If you don't have code, create a [prototype](https://en.wikipedia.org/wiki/Software_prototyping) that only covers exactly what your logic is trying to do. Make it as clean and simple as possible, and make sure it reproduces your error. You may be surprised to find out that you discover what your problem was by simply taking this step! But, if not, you can then use this prodotype to add code to your question.
+If you don't have code, create a [prototype](https://en.wikipedia.org/wiki/Software_prototyping) that only covers exactly what your logic is trying to do. Make it as clean and simple as possible, and make sure it reproduces your error. You may be surprised to find out that you discover what your problem was by simply taking this step! But, if not, you can then use this prototype to add code to your question.
 
 {::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
 ## Leave a comment! {#leaveacomment}

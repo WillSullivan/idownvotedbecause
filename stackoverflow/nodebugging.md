@@ -8,7 +8,7 @@ redirect_from:
   - Nodebugging  
 ---
 ## There appears to have been no effort to debug the code {#introduction}
-Debugging code is one of the most important things that a developer can do. When a program's result is unexpected, or when a program crashes at runtime, debugging is a way for a developer to quickly isolate and identify the problem. In the vast majority of cases, once the problem is identified, the solution is clear. But when a develper does not debug their code, the problem becomes much harder to fix.
+Debugging code is one of the most important things that a developer can do. When a program's result is unexpected, or when a program crashes at runtime, debugging is a way for a developer to quickly isolate and identify the problem. In the vast majority of cases, once the problem is identified, the solution is clear. But when a developer does not debug their code, the problem becomes much harder to fix.
 
 ## Why this is a problem {#whythisisaproblem}
 Without making the effort to debug failing code, the less obvious the problem is, the harder it will be to find a solution. Sometimes you are lucky and the problem may be evident in the code itself. But that is not always the case. A fix that might take ten minutes to find through debugging may drag out for hours and consume the effort of multiple people. 
