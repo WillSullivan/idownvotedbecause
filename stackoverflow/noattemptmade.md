@@ -5,6 +5,8 @@ permalink: noattempt/
 categories: "Stack Overflow"
 redirect_from:
   - NoAttempt
+  - NoEffort
+  - noeffort
 ---
 {::comment}Trying a different tone in this one, referring to the OP as "we" instead of "you"{:/}
 ## It appears no attempt was made {#introduction}
