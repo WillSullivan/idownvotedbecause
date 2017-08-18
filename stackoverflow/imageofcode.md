@@ -9,10 +9,10 @@ redirect_from:
   - imagesofyourcode
 ---
 ## An image of your code is not helpful {#introduction}
-{::comment}In this paragraph, give the user the tl;dr lowdown. {:/}When we ask a question about a problem with our code, we have to let the people who are helping us see it. Images of our code does not qualify.
+{::comment}In this paragraph, give the user the tl;dr lowdown. {:/}When we ask a question about a problem with our code, we have to let the people who are helping us see it. Images of our code do not qualify.
 
 ## Why this is a problem {#whythisisaproblem}
-{::comment}In this section, detail why the post has problems{:/}One of the first things we do when examining code for errors is to try compiling (if necessary) and running the code to see what happens. We may also copy part of the code to paste into search engines in order to find others with the same issue. When we are provided an image of code, this process becomes much more difficult.
+{::comment}In this section, detail why the post has problems{:/}One of the first things we do when examining code for errors is to try compiling (if necessary) and running the code to see what happens. We may also copy part of the code to paste into search engines in order to learn about the types or algorithms we are using, and to find other similar questions. When we are provided an image of code, this process becomes much more difficult.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
 {::comment}In this section, you can describe why the problem is worth a downvote within the community in which it was posted{:/}When people offer to help us, for free and on their own time, it is important for us to provide them everything they need to solve our issue. When we force them to *transcribe an image*, we are wasting their time. In addition, errors in the transcription make it less likely that a solution to our problem can be found. Image contents cannot be searched, so future developers with the same problem will be less likely to find our question. This is even more of a problem for developers who use screen readers, as they will neither be able to help you, or help themselves by finding our answer in future.
