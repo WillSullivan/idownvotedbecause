@@ -27,7 +27,7 @@ If you found the solution to your problem when debugging, and that solution may 
 Often times new developers do not how to debug their code. Following are a number of different articles detailing how to debug code using different tools.
 
 #### What is debugging {#whatisdebugging}
-If you aren't sure what this whole "debugging" thing is, [here's an introductory article on Wikipedia](https://en.wikipedia.org/wiki/Debugging#Further_reading).
+If you aren't sure what this whole "debugging" thing is, [here's an introductory article on Wikipedia](https://en.wikipedia.org/wiki/Debugging).
 
 #### Visual Studio and Visual Studio Code {#visualstudio}
 To learn how to use debugging tools in the latest version of Visual Studio, [click this link](https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour). For Visual Studio Code, [look here](https://code.visualstudio.com/docs/editor/debugging).
