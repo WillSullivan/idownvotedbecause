@@ -1,6 +1,6 @@
 ## How to help
 
-To help with the project, start by copying the contents of the [post template](https://github.com/WillSullivan/idownvotedbecause/blob/master/posttemplate.txt) into a new markdown file.
+To help with the project, start by copying the contents of the [post template](https://github.com/WillSullivan/idownvotedbecause/blob/master/PostTemplate) into a new markdown file.
 
 The name of the markdown file should be a very short topic description, and placed in a subfolder based on the community.
 
