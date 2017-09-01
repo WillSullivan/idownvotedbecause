@@ -3,7 +3,7 @@ Let others know why you downvoted, why it was worth a downvote, and what improve
 
 Each page addresses a single reason why someone would downvote a post.  It includes a description of what was wrong, why it is a problem, and why the community in general thinks it is worth a downvote.  
 
-The reader is also presented ways to fix the problem, and is encouraged to do so.  The reader is also encouraged to let the person who left the link know afterwards so that person can retract their downvote.
+The reader is also presented ways to fix the problem, and is encouraged to do so.  The reader is also encouraged to let the person who left the link know afterwards so they can retract the downvote.
 
 If you would like to add a page, please do so!  You can open an issue to suggest a topic, or add one yourself and send a pull request.
 
