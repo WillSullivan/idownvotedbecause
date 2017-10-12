@@ -1,5 +1,5 @@
 ---
-title: no MCVE
+title: No MCVE
 byline: lacking an MCVE makes it hard to answer
 permalink: nomcve/
 categories: "Stack Overflow"
