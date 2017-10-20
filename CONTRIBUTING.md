@@ -20,7 +20,15 @@ Acceptable subjects are problems that attract downvotes *that can be reversed*. 
 
 Be conscious of the tone of your topic. Talk about the problem as if it was its own entity, not the result of what any specific person did. If you aren't sure what this means, check the history of this document for an example. 
 
-Be careful of sounding accusatory towards an individual person, rather speak of any person in a similar situation. And try not to use the passive voice _too_ much. Pages must state facts as they exist.
+**Avoid the use of pronouns**. Pages must state facts as they exist. Don't speak of an individual's actions.  For example, consider the following paragraph:
+
+>If their question is important enough to ask, it should be important enough for them to check back regularly to respond to anyone commenting on it. If they ignore their question, they're also ignoring people who are trying to help them. Their time spent analyzing their question, asking for clarification, and waiting for a response is wasted. If they provide an answer that ends up being incorrect, the time spent on that is wasted. Wasting the time of people who are trying to help them is seen as very rude.
+
+When correctly rewritten to avoid all pronouns:
+
+>If a question is important enough to ask, it's important enough to check back regularly to respond to anyone commenting on it. Ignoring a question means ignoring people who are trying to help. Time spent analyzing the question, asking for clarification, and waiting for a response is wasted. If an answer is provided that ends up being incorrect, that time is wasted, too. Wasting the time of people who are trying to help is generally considered quite rude.
+
+Note that any references to individuals that remain are in the third person.
 
 Pages must **not** make asumptions that could shed a dire light on the subject. For example, this is _not acceptable_:
 
