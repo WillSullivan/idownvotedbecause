@@ -35,8 +35,8 @@ To learn how to use debugging tools in the latest version of Visual Studio, [cli
 #### Javascript (in browser) {#javascriptinbrowser}
 You can debug your javascript directly in most common browsers, including [Chrome](https://developer.chrome.com/extensions/tut_debugging), [Firefox](https://developer.mozilla.org/en-US/docs/Tools/Debugger), [Edge](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide/debugger), and [Safari](https://developer.apple.com/safari/tools/).
 
-#### XCode {#xcode}
-You can learn how to debug in the XCode IDE [at this link](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/debugging_with_xcode/chapters/debugging_tools.html).
+#### Xcode {#xcode}
+You can learn how to debug in the Xcode IDE [at this link](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/debugging_with_xcode/chapters/debugging_tools.html).
 
 #### Android Studio {#androidstudio}
 To learn how to debug your Android app in Android Studio, [visit this link](https://developer.android.com/studio/debug/index.html).
