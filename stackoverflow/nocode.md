@@ -20,7 +20,7 @@ As it is, the question is barely answerable. Any solution would be based on gues
 It also shows that not much effort was put into writing the question. Remember, you are asking people to *help you,* ***free of charge***.  Giving people enough information to answer your question is the least you can do. Failing to do so *wastes other people's time*, and wasting the time of other users who are trying to help is very rude.
 
 ## What to do next {#whattodonext}
-Edit the post to add a Minimal, Complete, Verifiable Example (see [the Stack Overflow help center](http://stackoverflow.com/help/mcve) for details on how to do this).
+Edit the post to add a Minimal, Complete, Verifiable Example (see [the Stack Overflow help center](https://stackoverflow.com/help/mcve) for details on how to do this).
 
 The code should not be [directly copy/pasted]({% link stackoverflow/toomuchcode.md %}) from your editor or IDE! Instead, it should be cut down to only keep the parts essential to identify and reproduce the issue.
 

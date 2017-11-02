@@ -39,7 +39,7 @@ If you are debugging in Visual Studio, the Exception Helper Dialog contains a li
 
 ![The link to copy exception details to the clipboard on the exception helper dialog](/images/stackoverflow/exceptionimage2.PNG)
 
-If you are experiencing the Exception at runtime, you can [catch the exception](http://stackoverflow.com/questions/9526139/how-to-catch-exceptions) and call `ToString()` on it. Log the result, using whatever method is most convenient for you.
+If you are experiencing the Exception at runtime, you can [catch the exception](https://stackoverflow.com/questions/9526139/how-to-catch-exceptions) and call `ToString()` on it. Log the result, using whatever method is most convenient for you.
 
 ## Leave a comment! {#leaveacomment}
 Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.

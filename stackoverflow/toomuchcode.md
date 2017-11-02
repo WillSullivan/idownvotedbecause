@@ -19,7 +19,7 @@ The noise generated from all the code surrounding the error prevents future user
 It also shows that not much effort was put into creating your question. People are volunteering their time, _free of charge_, to help you. You need to be considerate of their efforts. One of the easiest, and most helpful, ways to do this is to pare down your code to the minimum needed to illustrate your problem.
 
 ## What to do next {#whattodonext}
-Isolate the issue, and create a Minimal, Complete, Verifiable example ([see the StackOverflow help center for more details](http://stackoverflow.com/help/mcve)). Such an example is generally only a few lines of code, like a function or a database request.
+Isolate the issue, and create a Minimal, Complete, Verifiable example ([see the StackOverflow help center for more details](https://stackoverflow.com/help/mcve)). Such an example is generally only a few lines of code, like a function or a database request.
 
 The code should be debugged to identify _the precise spot at which the issue occurs_. It should then either be rewritten from scratch until the issue reappears or the original code should be largely cut through to remove working pieces which are not directly related to the issue.
 
