@@ -25,6 +25,8 @@ Without code, users will have to guess what might be wrong with a person's code.
 {::comment}In this section, you can describe why the problem is worth a downvote within the community in which it was posted{:/}
 Without an MCVE included in a question, it is much harder to answer. This also means it is now much more unlikely the question will get an answer. Experienced users may be able to determine the problem, but it will take them longer than necessary to do so. Or, they may be reduced to guessing at possible reasons until they guess right, or give up. This is considered rude as it wastes the time of those trying to help.
 
+Another huge benefit of an MCVE is that other people can just copy paste your code and run it instantly to observe it's behavior. Many times when people help you, they actually do write code until they have the solution. Spare them the work of having to write all the boilerplate.
+
 ## What to do next {#whattodonext}
 {::comment}In this section, cover how the problem can be fixed.{:/}
 Create an MCVE!  There are a [number](https://stackoverflow.com/help/mcve) of [tutorials](http://www.sscce.org/) available, some of which are part of larger "how to ask a good question" guides, such as [this one](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) (see the "Sample code and data" section). Read them! They are there to help you.
