@@ -22,7 +22,7 @@ Code should always be in the form of a Minimal, Complete, Verifiable Example (se
 
 Code should always follow the indentation standard of the language it is written in. More on indentation styles can be found on [Wikipedia](https://en.wikipedia.org/wiki/Indentation_style)
 
-Code can be made easier to read if blank lines are used to separate logical chunks, like spaces separate paragraphs. Code should aavoid empty lines that do not serve any purpose at all. As a rule of thumb, code should always be "pleasing to the eye?"
+Code can be made easier to read if blank lines are used to separate logical chunks, like spaces separate paragraphs. Code should avoid empty lines that do not serve any purpose at all. As a rule of thumb, code should always be "pleasing to the eye?"
 
 Variables and functions should have clear names that describe what they do. A variable with a good name does not need a description of what it holds or why. Stack Overflow is an english-only website, and as such it is preferable to use English names.
 
