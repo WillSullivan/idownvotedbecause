@@ -7,7 +7,7 @@ byline: — a website designed to help you help others!
 
 Participation in a reputation-ranked online community comes with its ups and downs. You post something and it gets upvoted when people like or agree with it--*and that's great!*
 
-Unfortunately, it may also receive a downvote because **someone didn't.**
+Unfortunately, it may also receive a downvote because **someone didn't**--and that can stink.
 
 Maybe your post got downvoted, and you're wondering why. Or maybe you're the downvoter, and you want to let the person who owns the post why you downvoted. This website is **built for you.**
 
