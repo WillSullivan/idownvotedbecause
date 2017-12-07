@@ -15,9 +15,9 @@ It's really hard to answer a question about a bug in code when the question *doe
 The question is about an issue in code.  Perhaps it wasn't giving the expected outcome, or was not compiling, or maybe when running it threw an exception.  Unfortunately, it is not possible to answer the question unless the relevant code is available.  People trying to help need it to examine in order to find the source of the error.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
-Without the code, the question is not answerable. Any solution would be based on guesses.  Even if someone guessed right, not having any code means it's harder to relate for future readers.  Questions that aren't useful for people other than the asker you are discouraged on Stack Overflow.
+Without the code, the question is not answerable. Any solution would be based on guesses.  Even if someone guessed right, not having any code means it's harder to relate for future readers.  Questions that aren't useful for people other than the asker are discouraged on Stack Overflow.
 
-It can also show that not much effort was put into writing the question. Remember, people with lots of experience are volunteering their time, for free, to help.  Giving these people enough information to answer questions is the most important thing anyone asking for help can do. Failing to do so *wastes people's time*, which is seen as rude, which can attract downvotes and makes it less likely to attract answers. 
+It can also show that not much effort was put into writing the question. Remember, people with lots of experience are volunteering their time, for free, to help.  Giving these people enough information to answer questions is the most important thing anyone asking for help can do. Failing to do so *wastes people's time*, which is seen as rude, which can attract downvotes. It also makes it less likely to attract answers. 
 
 ## What to do next {#whattodonext}
 Edit the post to add a Minimal, Complete, Verifiable Example (see [the Stack Overflow help center](https://stackoverflow.com/help/mcve) for details on how to do this).
