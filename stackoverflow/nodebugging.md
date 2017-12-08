@@ -41,6 +41,9 @@ You can learn how to debug in the Xcode IDE [at this link](https://developer.app
 #### Android Studio {#androidstudio}
 To learn how to debug your Android app in Android Studio, [visit this link](https://developer.android.com/studio/debug/index.html).
 
+#### C and C++ using the Gnu Debugger (GDB)
+For a tutorial using the [Gnu Debugger](http://www.gnu.org/software/gdb/) to debug your C or C++ application, [visit this link](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/).
+
 #### Your favorite IDE
 Have a favorite IDE/Language combo you want to add to this list? [Submit your addition here!](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})
 
