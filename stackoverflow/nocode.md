@@ -22,9 +22,9 @@ It can also show that not much effort was put into writing the question. Remembe
 ## What to do next {#whattodonext}
 Edit the post to add a Minimal, Complete, Verifiable Example (see [the Stack Overflow help center](https://stackoverflow.com/help/mcve) for details on how to do this).
 
-The code should not be [directly copy/pasted]({% link stackoverflow/toomuchcode.md %}) in its *original* form. Instead, it should be cut down to only keep the parts essential to identify and reproduce the issue. A good question will contain exact code which the asker has actually tried out and checked it shows the behavior they want to ask about. This is commonly referred to as an [MCVE](https://stackoverflow.com/help/mcve). Once code is reduced to the minimal amount that still exhibits the problem, feel free to copy and paste that into the question.
+The code should not be [directly copy/pasted]({% link stackoverflow/toomuchcode.md %}) in its *original* form. Instead, it should be cut down to only keep the parts essential to identify and reproduce the issue. This reduced and isolated code should be tested to verify it exhibits the same issues as the original. This is commonly referred to as an [MCVE](https://stackoverflow.com/help/mcve). Once code is reduced to the minimal amount that still exhibits the problem, it should be edited into the question.
 
-With well-formatted minimal code, problems can be quickly identified by experienced users and solved by their answers. These answers will be of higher quality and relate better to the issue posted, drawing more attention to the question (and more upvotes). Future readers will be able to quickly identify if the root cause of the issue relates to them.
+With well-formatted minimal code, problems can be quickly identified by experienced users. They will be able to quickly add answers to the question with valid solutions. These answers will be of higher quality and relate better to the issue posted, drawing more attention to the question (and more upvotes). Future readers will be able to quickly identify if the root cause of the issue relates to them.
 
 Please don't use comments to add code to a question.  Comments cannot be properly formatted, and are not considered a valid place for code.  There is an "edit" link below all questions and answers that can be used by any user to edit and improve the post.
 
