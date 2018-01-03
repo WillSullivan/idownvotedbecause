@@ -24,7 +24,7 @@ Once you have debugged your code, take everything that you have learned and edit
 If you found the solution to your problem when debugging, and that solution may be useful to others, you can add an answer to your question with details about what you did and what you found while debugging.  If other people answered your question, and they were somewhat or exactly right, select the best one as correct. If your answer is the only one, after the required waiting period, you can select your answer as correct and close out the question. It may seem odd, but that's how we handle this situation.  If your answer is of no use to anyone else, and no one has answered your question, you can simply delete it.
 
 ### How to debug {#howtodebug}
-Often times new developers do not how to debug their code. Following are a number of different articles detailing how to debug code using different tools.
+Often times new developers do not know how to debug their code. Following are a number of different articles detailing how to debug code using different tools.
 
 #### What is debugging {#whatisdebugging}
 If you aren't sure what this whole "debugging" thing is, [here's an introductory article on Wikipedia](https://en.wikipedia.org/wiki/Debugging).
