@@ -27,7 +27,7 @@ When one of these items is not provided, answerers have to guess what the missin
 ## What to do next {#whattodonext}
 Review your question. Did you provide a full description of what the code did? Did you point out the reasons why this result was not correct? Use the edit link at the bottom of your question (do *not* add a comment!) to provide these details. If commenters have asked pointed questions about what happened and why it wasn't correct, make sure to address these questions directly.
 
-If you do not know *why* your code did not work, that suggests you have not debugged it. Debugging is one of the first steps developers take when their code fails, and is an important skill to learn. Not debugging your code is also worth a downvote. To learn why, and for hints on how to debug your code, [click here](http://idownvotedbecau.se/nodebugging/).
+If you do not know *why* your code did not work, that suggests you have not debugged it. Debugging is one of the first steps developers take when their code fails, and is an important skill to learn. Not debugging your code is also worth a downvote. To learn why, and for hints on how to debug your code, see our ["No Debugging" page](http://idownvotedbecau.se/nodebugging/).
 
 {::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
 ## Leave a comment! {#leaveacomment}
