@@ -2,7 +2,7 @@
 title: I downvoted because...
 byline: — a website designed to help you help others!
 ---
-
+ 
 # This website is designed to help people understand why you downvoted.
 
 Participation in a reputation-ranked online community comes with its ups and downs. You post something and it gets upvoted when people like or agree with it--*and that's great!*
@@ -32,9 +32,9 @@ Here's the current list of all pages, sorted by community!  Not finding somethin
         <li>
           <a href="{{ page.url }}">{{ page.title }}</a>
           <ul>
-            <li>`[page.byline]({{page.url}})`</li>
+            <li>`[{{page.byline}}]({{page.url}})`</li>
           </ul>
-        </li> `[{{page.byline}}]({{page.url}})`
+        </li>
       {% endif %}   <!-- cat-match-p -->
     {% endfor %}  <!-- page-category -->
   {% endfor %}  <!-- page -->
