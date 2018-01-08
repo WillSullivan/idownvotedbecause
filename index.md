@@ -32,7 +32,7 @@ Here's the current list of all pages, sorted by community!  Not finding somethin
         <li>
           <a href="{{ page.url }}">{{ page.title }}</a>
           <ul>
-            <li>[{{ page.excerpt | remove: '<p>' | remove: '</p>' }}]({{site.url}}{{page.url}})</li>
+            <li>[{{ page.linkText }}]({{site.url}}{{page.url}})</li>
           </ul>
         </li>
       {% endif %}   <!-- cat-match-p -->
