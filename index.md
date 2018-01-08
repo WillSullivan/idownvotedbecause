@@ -29,7 +29,12 @@ Here's the current list of all pages, sorted by community!  Not finding somethin
   {% for page in site.pages %}
     {% for pc in page.categories %}
       {% if pc == cat %}
-        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        <li>
+          <a href="{{ page.url }}">{{ page.title }}</a>
+          <ul>
+            <li>`[page.byline]({{page.url}})`</li>
+          </ul>
+        </li> `[page.byline]({{page.url}})`
       {% endif %}   <!-- cat-match-p -->
     {% endfor %}  <!-- page-category -->
   {% endfor %}  <!-- page -->
