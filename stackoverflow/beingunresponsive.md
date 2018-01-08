@@ -1,4 +1,4 @@
-Sometimes questions aren't as clear as they should be. Or, they may not contain important information needed to provide a correct answer. People who read questions like this often leave comments seeking clarification.---
+---
 title: Being unresponsive
 byline: being unresponsive to people asking for clarification is not helpful
 permalink: beingunresponsive
@@ -7,7 +7,7 @@ redirect_from:
   - BeingUnresponsive
   - unresponsive
   - Unresponsive
-linkText: People who read questions often leave comments seeking clarification. Without responding to these clarification requests, it is less likely that the question will be answered.
+linkText: People who read questions often leave comments seeking clarification. Without responding to these clarification requests, it is less likely that the question will be answered and you may get downvoted.
 ---
 (testing, this should last for a minute)
 {::comment}This post is designed to target people who ask questions that aren't clear and then take off. Folks are bugging them 
