@@ -34,7 +34,7 @@ Here's the current list of all pages, sorted by community!  Not finding somethin
           <ul>
             <li>`[page.byline]({{page.url}})`</li>
           </ul>
-        </li> `[page.byline]({{page.url}})`
+        </li> `[{{page.byline}}]({{page.url}})`
       {% endif %}   <!-- cat-match-p -->
     {% endfor %}  <!-- page-category -->
   {% endfor %}  <!-- page -->
