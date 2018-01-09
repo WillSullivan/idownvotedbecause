@@ -22,17 +22,17 @@ pictures of exceptions show only part of the detail contained within the excepti
 ![Viewing the details of the exception](/images/stackoverflow/exceptionimage3.PNG)
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
-One of the first things people do when trying to help someone with an exception is to *copy text from the exception and paste it into their favorite search engine*. When someone puts an image of an exception into their question, they force people who (for free) are trying to help **to transcribe the exception from the image**. Not only is this a waste of time (time that could be used to solve the problem), but it also can result in transcription errors that reduce the chance that the search is successful.
+One of the first things people do when trying to help someone with an exception is to *copy text from the exception and paste it into their favorite search engine*. When someone puts an image of an exception into their question, they force people who (for free) are trying to help **to transcribe the exception from the image**. Not only is this a waste of time (time that could be used to solve the problem), but it can also result in transcription errors that reduce the chance that the search is successful.
 
 Images cannot easily contain **all** of the details from an exception. Exceptions contain [stack traces](https://en.wikipedia.org/wiki/Stack_trace) which are often very long and won't fit in an image. Exceptions also can contain *inner exceptions* or be *an aggregate of multiple exceptions* which all have stack traces of their own. Helpers need all that information to answer a question. An image isn't giving all of this necessary information in an easy to consume form.
 
 In addition, images of text have other issues that make them worth a downvote. For example, text in images isn't indexed by search engines. This makes it very hard, if not impossible, to find similar questions when researching a similar problem. This reduces the visibility of these questions and prevents future readers from finding it. It also prevents people who use screen readers from being able to answer these questions.
 
 ## What to do next {#whattodonext}
-Capture all the details from the exception as text and then paste it into the question in an edit. **This is important**--exception details shound never be pasted into one or more comments, as there is not enough room for all the of details and comments cannot be formatted neatly. There is an "edit" link at the bottom of all questions. Clicking that link makes it easy to paste the details into a question. It is always important to make sure the text is formatted well and can be easily read.
+Capture all the details from the exception as text and then paste it into the question in an edit. **This is important**--exception details should never be pasted into one or more comments, as there is not enough room for all the of details and comments cannot be formatted neatly. There is an "edit" link at the bottom of all questions. Clicking that link makes it easy to paste the details into a question. It is always important to make sure the text is formatted well and can be easily read.
 
 ### Capturing exception details
-Capturing all details from an exception can usually be accomplished very easy, depending on what language and tools being used. Here is an example of capturing these details. {::comment}Note--if you add more examples, please pluralize the previous sentence!{:/}
+Capturing all details from an exception can usually be accomplished very easily, depending on what language and tools being used. Here is an example of capturing these details. {::comment}Note--if you add more examples, please pluralize the previous sentence!{:/}
 
 #### Visual Studio and .NET
 When debugging in Visual Studio, the Exception Helper Dialog contains a link that will copy all exception details to the clipboard 
