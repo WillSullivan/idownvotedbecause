@@ -32,7 +32,7 @@ In addition, images of text have other issues that make them worth a downvote. F
 Capture all the details from the exception as text and then paste it into the question in an edit. **This is important**--exception details should never be pasted into one or more comments, as there is not enough room for all the of details and comments cannot be formatted neatly. There is an "edit" link at the bottom of all questions. Clicking that link makes it easy to paste the details into a question. It is always important to make sure the text is formatted well and can be easily read.
 
 ### Capturing exception details
-Capturing all details from an exception can usually be accomplished very easily, depending on what language and tools being used. Here is an example of capturing these details. {::comment}Note--if you add more examples, please pluralize the previous sentence!{:/}
+Capturing all details from an exception can usually be accomplished very easily, depending on what language and tools are being used. Here is an example of capturing these details. {::comment}Note--if you add more examples, please pluralize the previous sentence!{:/}
 
 #### Visual Studio and .NET
 When debugging in Visual Studio, the Exception Helper Dialog contains a link that will copy all exception details to the clipboard 
