@@ -31,11 +31,6 @@ Here's the current list of all pages, sorted by community!  Not finding somethin
       {% if pc == cat %}
         <li>
           <a href="{{ page.url }}">{{ page.title }}</a>
-         {::comment}
-          <ul>
-            <li>[{{ page.linkText }}]({{site.url}}{{page.url}})</li>
-          </ul>
-         {:/}
         </li>
       {% endif %}   <!-- cat-match-p -->
     {% endfor %}  <!-- page-category -->
