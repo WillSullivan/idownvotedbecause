@@ -1,4 +1,3 @@
-
 ---
 title: No attempt
 byline: no attempt was made
