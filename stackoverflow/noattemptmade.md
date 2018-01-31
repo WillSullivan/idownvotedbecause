@@ -1,3 +1,4 @@
+
 ---
 title: No attempt
 byline: no attempt was made
@@ -10,13 +11,15 @@ redirect_from:
 ---
 {::comment}Trying a different tone in this one, referring to the OP as "we" instead of "you"{:/}
 ## It appears no attempt was made {#introduction}
-We all have jobs to do. It may be homework, or work-work. No matter what, it's our responsibility to get the job done. And when it seems like our task is too hard or we don't know where to start, it is always worth the effort to at least try.
+We all have jobs to do. It may be homework, or for our job. No matter what, it's our responsibility to get it done. Even when it seems like our task is too hard or we don't know where to start, it is always worth the effort to at least try.
 
 ## Why this is a problem {#whythisisaproblem}
-We can't rely on other people to do our work for us. Asking others to do our work for us can also be seen as rude. If we try, we may succeed. But if we do not, we will always fail. And if we **did try**, without sharing our efforts with others, they may *duplicate our work instead of providing a working solution*.
+We can't rely on other people to do our work for us. Asking others to do our work for us can also be seen as rude. If we try for ourselves, we may succeed. If we do not, we will always fail. And if we **did try**, without sharing our efforts with others, they may *duplicate our work instead of providing a working solution*. When we think we have no idea where to start, in fact we do--we must search and research our problem.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
 It can be seen as very rude to ask other people to do our work for us. People will look and see if we made any effort at all, and if they see none, they may look upon us as lazy, and act negatively toward us, downvoting our question and voting to close. Without making an attempt, we may not even know where our real problem lies. People may spend time answering our question, suggesting things that we would have already been able to accomplish, and not things that we *truly* would have needed help with. This wastes the time of those volunteering to help us, and doesn't solve our problem at all.
+
+At a minimum, we must [research our problem before asking for help](/noresearch). Sharing this research with those who would help us with our question can reduce the effort they must expend to answer our quesiton. Describing what you found and why it didn't help will prevent others from suggesting these very same solutions, increasing the chance we get a correct solution to our problem.
 
 If we *have* made an effort, but we failed to detail **exactly what we did** in our question, then this can result in duplicated effort on the part of those trying to help us. That's a waste of their time, and makes it harder for us to get a proper answer.
 
