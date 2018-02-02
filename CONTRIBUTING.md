@@ -26,7 +26,7 @@ Be conscious of the tone of your topic. Talk about the problem as if it was its 
 
 When correctly rewritten to avoid all pronouns:
 
->If a question is important enough to ask, it's important enough to check back regularly to respond to anyone commenting on it. Ignoring a question means ignoring people who are trying to help. Time spent analyzing the question, asking for clarification, and waiting for a response is wasted. If an answer is provided that ends up being incorrect, that time is wasted, too. Wasting the time of people who are trying to help is generally considered quite rude.
+>If a question is important enough to ask, it's important enough to check back regularly to respond to anyone commenting on it. Ignoring a question means ignoring people who are trying to help. Time spent analyzing the question, asking for clarification, and waiting for a response is wasted. If an answer is provided that ends up being incorrect, that time is wasted, aswell. Wasting the time of people who are trying to help is generally considered quite rude.
 
 Note that any references to individuals that remain are in the third person.
 
@@ -36,7 +36,7 @@ Pages must **not** make asumptions that could shed a dire light on the subject. 
 
 This is making the asumption that the user is lazy. Not only does it not help, it can also make readers feel insulted or targeted. Instead:
 
-> Homework questions are often frowned upon by users as they are generally low quality and show little work.
+> Homework questions are often frowned upon by users as they are generally low quality and show little effort in learning the assigned material.
 
 _Again,_ try to avoid targeting users in any way. They are likely to be upset already and feel that they are being personally down-voted. Re-enforcing this felling will not help the website contribute to their learning.
 
