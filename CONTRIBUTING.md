@@ -26,7 +26,7 @@ Be conscious of the tone of your topic. Talk about the problem as if it was its 
 
 When correctly rewritten to avoid all pronouns:
 
->If a question is important enough to ask, it's important enough to check back regularly to respond to anyone commenting on it. Ignoring a question means ignoring people who are trying to help. Time spent analyzing the question, asking for clarification, and waiting for a response is wasted. If an answer is provided that ends up being incorrect, that time is wasted, aswell. Wasting the time of people who are trying to help is generally considered quite rude.
+>If a question is important enough to ask, it's important enough to check back regularly to respond to anyone commenting on it. Ignoring a question means ignoring people who are trying to help. Time spent analyzing the question, asking for clarification, and waiting for a response is wasted. If an answer is provided that ends up being incorrect, that time is wasted, as well. Wasting the time of people who are trying to help is generally considered quite rude.
 
 Note that any references to individuals that remain are in the third person.
 
