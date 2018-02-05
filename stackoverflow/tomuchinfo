@@ -6,6 +6,8 @@ categories: "Stack Overflow"
 redirect_from:
   - TooMuchInfo
   - ToomuchInfo
+  - walloftext
+  - WallOfText
 ---
 ## Please include the _minimum amount of text_ in your question to describe the problem {#introduction}
 Like the proverbial needle in the haystack, you've made it hard for people to understand what your problem is.
