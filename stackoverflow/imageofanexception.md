@@ -13,7 +13,7 @@ redirect_from:
 Questions often include the fact that the code in question generates errors when compiled or throws exceptions when executed. That's good information that is needed to help find a solution. It is always important to include details like this within the question. However, in order to find a solution, the details that can be found within the error or exception are needed. If the question lacks this detailed information, it becomes much harder to help solve the problem.
 
 ## Why this is a problem {#whythisisaproblem}
-Pasting a picture of an error or an exception is not helpful. It is not requried to prove that the error happened--people are trusted when they state this fact within the question. It is the details omitted by these images that is the problem. For example,
+Pasting a picture of an error or an exception is not helpful. It is not required to prove that the error happened -- people are trusted when they state this fact within the question. It is the details omitted by these images that is the problem. For example,
 
 ![The exception dialog](/images/stackoverflow/exceptionimage1.PNG)
 
