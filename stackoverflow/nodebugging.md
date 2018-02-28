@@ -44,6 +44,9 @@ To learn how to debug your Android app in Android Studio, [visit this link](http
 #### C and C++ using the Gnu Debugger (GDB)
 For a tutorial using the [Gnu Debugger](http://www.gnu.org/software/gdb/) to debug your C or C++ application, [visit this link](http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/).
 
+#### MATLAB {#matlab}
+To learn how to debug your MATLAB program in the MATLAB editor, [visit this link](https://www.mathworks.com/help/matlab/matlab_prog/debugging-process-and-features.html).
+
 #### Your favorite IDE
 Have a favorite IDE/Language combo you want to add to this list? [Submit your addition here!](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})
 
