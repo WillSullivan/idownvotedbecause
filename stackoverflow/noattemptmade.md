@@ -20,7 +20,7 @@ It can be seen as very rude to ask other people to do our work for us. People wi
 
 At a minimum, we must [research our problem before asking for help](/noresearch). Sharing this research with those who would help us with our question can reduce the effort they must expend to answer it. Describing what we found and why it didn't help will prevent others from suggesting these very same solutions, increasing the chance we get a correct solution to our problem.
 
-If we *have* made an effort, but we failed to detail **exactly what we did** in our question can result in duplicated effort on the part of those trying to help us. That's a waste of their time, and makes it harder for us to get a proper answer.
+If we *have* made an effort, but we failed to detail **exactly what we did** in our question, it can result in duplicated effort on the part of those trying to help us. That's a waste of their time, and makes it harder for us to get a proper answer.
 
 And, in some cases, our question may *itself* be a waste of **our time**. The effort to fix our problem may have been less than to ask the question in the first place! A simple search, [a little debugging](/nodebugging), and it would have been solved. If asking our question was a waste of *our* time, it was **definitely** a waste of the time of people trying to help us.
 
