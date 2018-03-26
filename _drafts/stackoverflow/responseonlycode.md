@@ -7,18 +7,18 @@ redirect_from:
   - [add one or more permalink alternatives with capltalization variants like PascalCase or alternative urls]
 ---
 ## Code is all we use, but we need something more {#introduction}
-{::comment}In this paragraph, give the user the tl;dr lowdown. {:/} Maybe you wrote a line, or 50, but we only see code. Code is what we need, but without knowing how it work, we can only copy and paste it, but will not work in the future.
+{::comment}In this paragraph, give the user the tl;dr lowdown. {:/} While this code may answer the question, providing additional context regarding why and/or how this code answers the question improves its long-term value.
 
 ## Why this is a problem {#whythisisaproblem}
-{::comment}In this section, detail why the post has problems{:/} Future readers will need to read the question, your code, and try to understand if that code will help them or not. maybe is a long function and trying to understand if all the code is a solution to a similar problem takes to long. Maybe is only one line, but is doing something very complex that will make reader to look for every part of the expression.
+{::comment}In this section, detail why the post has problems{:/} Future readers will need to read the question, your code, and try to understand if that code will help them.  Once they have done that they may then have to try to figuer out how it should be implimented. Without some explination in how the code works and is ment to be applied may lead to furter confusing and frustration of both the author of the question and future users.  
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
 {::comment}In this section, you can describe why the problem is worth a downvote within the community in which it was posted{:/}
-You take the job to build a post, with your own code or copied from somewhere else, that's a great thing. But, to reach future readers and to understand what you did, it would be good to explain your code. If it has some weird functionality or something that is not common, if would be nice if you explain it.
+The author of the question spent the time in writing up the question with enough information and detail that you were able to submit an anwser. You should take just as much time to submit your anwser. Simply coping code from someplace and pasting it as an anwser may come across as lazy. Also if you copied this code from somewhere and have not attributed the orignal author of the code it may be considered plagiarism. In this case a link to the source of the code should also be added. 
 
 ## What to do next {#whattodonext}
 {::comment}In this section, cover how the problem can be fixed.{:/}
-Explain your code. Explain what it does, how it does it, and if there are some obscure parts, explain them too. 
+Edit your question and explain the code you have sumited. Explain what it does, how it does it, how it should be implimited. If there are some obscure parts, explain them too. 
 
 {::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
 ## Leave a comment! {#leaveacomment}
