@@ -1,35 +1,37 @@
 ---
 title: Unclear what you're asking
-byline: the question you wrote ay appear clear to you, but it is not for an external reader
+byline: the question may appear clear to the poster, but it is not for other readers
 permalink: unclearquestion
 categories: "Stack Overflow"
 redirect_from:
   - unclear
   - notclear
-  - whatquestion
-linkText: The people who read our questions have not spend as much time on the problem as we have, and more importantly they do not have the whole code base with all of the information needed to understand the big picture. Due to this we need to write a crystal clear questions.
+  - noquestion
+linkText: The people who volunteer to help others with a question are not intimately familiar with the problem as the person who has struggled to solve it. Because to this, questions must be crystal clear to the people who wish to help.
 ---
 
-## Before we can help you, you must help us {#introduction}
-Sometimes questions aren't as clear to others as they could be or they may be missing critical information needed to provide a correct answer. When we submit a question it is up to us to ensure that the people reading it will have all of the information they need to help us with our issue.
+## Before others can help, a clear question must be formulated {#introduction}
+Sometimes questions aren't as clear to others as they could be or they may be missing critical information needed to provide a correct answer. When someone asks a difficult question it is their responsibility to ensure that anyone reading it will have all of the information they need to understand and diagnose the problem. Sometimes this is not the case.
 
-- They may also be missing a clear and concise question. 
-- The formatting may be extremely difficult to read.  
-- The may be missing the code causing the problem and just contian the exception.
-- They may include just code with out any error description.
-
-
+- The post may not have a specific question, or it may be only implied by the details  
+- The formatting of the question may be so poor as to make it difficult to read  
+- The question may lack the code which exhibits the behavior in question
+- The question might mention an exception but lack any of the exception's details
 
 ## Why this is a problem {#whythisisaproblem}
-Without a clear and concise question and a clear picture of the problem, it is less likely that the question will be answered.  Questions like this that do get anwsers tend to result in answers that are at best educated guesses and at worst completely wrong. The problem then results in other people seeking a solution for their problem, forced to navigate in a sea of unclear questions with presumably low-quality answers.
-
-Do you think you are able to understand what are you asking?
+Without a clear and concise question with relevant details of the problem, it is less likely that the question can be answered.  Questions like this tend to only be answered at best by educated, and worst by completely wrong, guesses. It is more likely that these answers will be worthless to the person who asked the question, to future visitors who also have a similar problem, and for the people that spent their time and effort to construct them.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
-If a question is important enough to ask, it should be important enough to spend the time and energy on it that is needed. Any one reading the question is using their time in analyzing a question this may end up being wasted time. If someone attempts to answer a question like this and it that ends up being incorrect, the time spent on that is also wasted. Wasting the time of people who are trying to help is seen as rude.
+If a question is important enough to ask, it should be important enough to spend the time and energy on it that is needed to make it answerable. Those who volunteer to answer the question are spending their limited time analyzing the question because it is unclear rather than spending this time answering it. If they misunderstand the question and still answer, and it is incorrect, the time spent on that answer is wasted. Wasting the time of people volunteering their efforts can be seen as rude.
 
 ## What to do next {#whattodonext}
-Edit the question to clarify and make it understandable for anyone is reading it, and then @reply in the comments to let the people know that their requests for clarification have been answered. In the future, when asking a question, read your question at least twice before submitting it, considering the point of view of someone that does not have all the information that you have, but will have to reply only on the basis of what is written in your question. Remember to include a Minimal, Complete, Verifiable Example (MCVE). Use the formatting to make the question easily readable. Don't forget to check to see if comments or answers have been added every ten to fifteen minutes and always edit your question if someone raises a request for clarification. Doing so raises the chances they will provide an answer, as well as the probability that the answer is a correct solution, and it will become a solution also for someone else in future.
+Edit the question to clarify and make it understandable for anyone who reads it. The actual question should be easily identified and not hidden in the details of what is causing the problem. Text should be formatted for easy reading. Code should be formatted as code. Text should use correct punctuation and capitalization and be formatted into appropriate paragraphs. 
+
+The question should be monitored for comments. When people ask in comments for clarification, the question should be immediately edited and those requested details should be added. Responding to comments makes it more likely that an author of a question will get correct answers to their questions. Answers should also be watched for, as they may also indicate the need for clarification.
+
+In general, questions should be reviewed and edited at least twice, but preferably more times, before submitting it. The viewpoint of those answering the question must be considered. If they knew nothing of the codebase, or the function of the application, would they be able to answer given what is in the question? Sometimes it is helpful to view other people's upvoted questions and analyze how they asked their question from this viewpoint. 
+
+The code should not be [directly copy/pasted]({% link stackoverflow/toomuchcode.md %}) in its original form. Instead, it should be cut down to only keep the parts essential to identify and reproduce the issue. This reduced and isolated code should be tested to verify it exhibits the same issues as the original. This is commonly referred to as an [MCVE](https://stackoverflow.com/help/mcve). 
 
 {::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
 ## Leave a comment! {#leaveacomment}
