@@ -9,7 +9,7 @@ Participation in a reputation-ranked online community comes with its ups and dow
 
 Unfortunately, it may also receive a downvote because **someone didn't**--and that can stink.
 
-Maybe your post got downvoted, and you're wondering why. Or maybe you're the downvoter, and you want to let the person who owns the post why you downvoted. This website is **built for you.**
+Maybe your post got downvoted, and you're wondering why. Or maybe you're the downvoter, and you want to let the person who owns the post know why you downvoted. This website is **built for you.**
 
 The goal for *I Downvoted Because* is to give people an **easy, productive and helpful way** to let someone know **what caused your downvote, what they can do to fix it, and why you think they should do so.** It also gives people who experience downvotes a simple way to learn what happened and why. They can also learn what the culture of a community sees as a reason to downvote, and therefore how to reverse it.
 
