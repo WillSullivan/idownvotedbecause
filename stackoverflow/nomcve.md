@@ -19,7 +19,7 @@ When a code sample has these qualities, it is generally referred to as an [MCVE]
 
 ## Why this is a problem {#whythisisaproblem}
 {::comment}In this section, detail why the post has problems{:/}
-Without code, users will have to guess what might be wrong with a person's code. With too much code, the problem may be lost like the proverbial needle in the haystack. If you post code and that code is lacking the section of code that actually exhibits the issue, then what is included is practically worthless. And, if the code is full of compile errors or artificial bugs caused by translation to the question, these may hide the actual problem.
+Without code, users will have to guess what might be wrong with a person's code. With too much code, the problem may be lost like the proverbial needle in the haystack. If you post code that is lacking the section that actually exhibits the issue, then what is included is practically worthless. And, if the code is full of compile errors or artificial bugs caused by translation to the question, these may hide the actual problem.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
 {::comment}In this section, you can describe why the problem is worth a downvote within the community in which it was posted{:/}
