@@ -29,6 +29,9 @@ Often times new developers do not know how to debug their code. Following are a 
 #### What is debugging? {#whatisdebugging}
 If you aren't sure what this whole "debugging" thing is, [here's an introductory article on Wikipedia](https://en.wikipedia.org/wiki/Debugging).
 
+#### What exactly do I do? {#whattodo}
+If you're not sure how to start debugging your application, Eric Lippert's article ["How to debug small programs"](https://ericlippert.com/2014/03/05/how-to-debug-small-programs/) is a good starting point.
+
 #### Visual Studio and Visual Studio Code {#visualstudio}
 To learn how to use debugging tools in the latest version of Visual Studio, [click this link](https://docs.microsoft.com/en-us/visualstudio/debugger/debugger-feature-tour). For Visual Studio Code, [look here](https://code.visualstudio.com/docs/editor/debugging).
 
