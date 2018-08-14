@@ -79,4 +79,6 @@ Once you have done this, leave a comment to the person who sent you this link. T
 This website is here for everyone's benefit, most importantly yours! If this did <i>not</i> help you, or if you would
 like to leave feedback, please **[create an Issue regarding this page on GitHub,](https://github.com/WillSullivan/IDownvotedBecause/issues/new) or [submit an improvement directly.](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})**
 
+--------
+
 source:[https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem/66378#66378](https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem/66378#66378)
