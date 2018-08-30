@@ -14,7 +14,7 @@ Including excessive amounts of code makes it hard for the people who are trying 
 It is really hard to answer a question about a bug in code when the question includes a huge block of code. When this happens, it takes much longer and is much more difficult for other users to search through the code to find the pieces that are relevant to the problem.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
-The noise generated from all the code surrounding the error prevents future users from relating the question and answer to their own issue. It also makes it much harder for anyone to determine what the problem is. This takes time away from people who are trying to help us. The question is effectively only useful to the asker, is less likely to get answered, and offers little or no value to the community as a whole.
+The noise generated from all the code surrounding the error prevents future users from relating the question and answer to their own issue. It also makes it much harder for anyone to determine what the problem is. This takes time away from people who are trying to help. The question is effectively only useful to the asker, is less likely to get answered, and offers little or no value to the community as a whole.
 
 Including too much irrelevant code reflects a low effort question. When people are volunteering their time, free of charge, to help answer a question, appreciation can be shown by keeping the code consise. It is expected to include the minimum amount of code needed to illustrate the problem. This allows those helping to more quickly assist in helping identify a solution. 
 
