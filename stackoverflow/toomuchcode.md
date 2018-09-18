@@ -16,7 +16,7 @@ It is really hard to answer a question about a bug in code when the question inc
 ## Why this is worth a downvote {#whythisisworthadownvote}
 The noise generated from all the code surrounding the error prevents future users from relating the question and answer to their own issue. It also makes it much harder for anyone to determine what the problem is, making it much less likely to get a quick, correct answer. The question is effectively only useful to the asker, is less likely to get answered, and offers little or no value to the developer community as a whole.
 
-Including too much irrelevant code reflects a low effort question. When people are volunteering their time, free of charge, to help answer a question, appreciation can be shown by keeping the code consise--the minimum amount needed to illustrate the problem. 
+Including too much irrelevant code reflects a low effort question. When people are volunteering their time, free of charge, to help answer a question, appreciation can be shown by keeping the code concise--the minimum amount needed to illustrate the problem. 
 
 ## What to do next {#whattodonext}
 Isolate the issue, and create a Minimal, Complete, Verifiable example ([see the StackOverflow help center for more details](https://stackoverflow.com/help/mcve)). Such an example is generally only a few lines of code, like a function or a database request.
