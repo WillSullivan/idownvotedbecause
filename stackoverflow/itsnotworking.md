@@ -21,6 +21,8 @@ In order to provide a solution, we need a full description of the problem. That 
 
 "It didn't work" is not an adequate description for points 3 and/or 4.
 
+If the problem is not directly code-related, be sure to include details about your attempts to fix the problem, what the results were, and what you expected to happen instead. Any relevant errors should be included in the question.
+
 ## Why this is worth a downvote {#whythisisworthadownvote}
 When one of these items is not provided, answerers have to guess what the missing pieces are. That increases the chances that their answers are incorrect, which is a waste of everyone's time. Without enough information to answer a question, experienced users are less likely to attempt to answer, and more likely to downvote. 
 
@@ -34,5 +36,4 @@ If you do not know *why* your code did not work, that suggests you have not debu
 Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.
 
 ## Did this page help you?
-This website is here for everyone's benefit, most importantly yours! If this did <i>not</i> help you, or if you would
-like to leave feedback, please **[create an Issue regarding this page on GitHub,](https://github.com/WillSullivan/IDownvotedBecause/issues/new) or [submit an improvement directly.](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})**
+This website is here for everyone's benefit, most importantly yours! If this did <i>not</i> help you, or if you would like to leave feedback, please **[create an Issue regarding this page on GitHub,](https://github.com/WillSullivan/IDownvotedBecause/issues/new) or [submit an improvement directly.](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})**
