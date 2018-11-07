@@ -9,23 +9,22 @@ redirect_from:
   - walloftext
   - WallOfText
 ---
-## Please include the _minimum amount of text_ in your question to describe the problem {#introduction}
-Like the proverbial needle in the haystack, you've made it hard for people to understand what your problem is.
+## Please include the _minimum amount of text_ in the question to describe the problem {#introduction}
+Including excessive amounts of text makes it hard for the people who are trying to help answer questions.
 
 ## Why this is a problem {#whythisisaproblem}
-There is a huge amount of text inside your question. Your real problem lies only in a few instructions, and most of the text posted is completely irrelevant to the resolution of your issue. It only serves as noise, and makes it harder for those trying to answer your question.
+When there is a huge amount of text inside a question, it makes it difficult to determine what is noise and what is relevant to the resolution of the issue. Most of the text posted is irrelevant which makes it harder for users to answer the question.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
-The noise generated from all the text surrounding the error prevents future users from relating your question and the answer to their own issue. It also makes it much harder for anyone to determine what the problem is.  That makes your question less likely to get an answer, and wastes the time of anyone who tries to help you. The question is effectively only useful to the asker, is less likely to get answered, and offers little or no value whatsoever to the community as a whole.
+The noise generated from all the text surrounding the error prevents future users from relating the question and the answer to their own issue. It also makes it much harder for anyone to determine what the problem is, making it much less likely to get a quick, correct answer. The question is effectively only useful to the asker, is less likely to get answered, and offers little or no value to the developer community as a whole.
 
-People are volunteering their time, _free of charge_, to help you. You need to be considerate of their efforts. One of the easiest, and most helpful, ways to do this is to pare down your question to the minimum needed to describe your problem.
-
-## What to do next {#whattodonext}
-In the body of your question, start by paring it down. Explain how you encountered the problem you're trying to solve, and any difficulties that have prevented you from solving it yourself. The first paragraph in your question is the second thing most readers will see, so make it as engaging and informative as possible.
+When people are volunteering their time, free of charge, to help answer a question, appreciation can be shown by keeping the question consise--the minimum amount of detail needed to explain the problem. 
 
 ### Help others reproduce the problem
+Not all questions benefit from including code, but if the problem is with code that was written, some should be included. Isolate the issue, and create a Minimal, Complete, Verifiable example ([see the StackOverflow help center for more details](https://stackoverflow.com/help/mcve)). Such an example is generally only a few lines of code, like a function or a database request.
 
-Not all questions benefit from including code. But if your problem is with code you've written, you should include some.  Isolate the issue, and create a Minimal, Complete, Verifiable example ([see the StackOverflow help center for more details](https://stackoverflow.com/help/mcve)). Such an example is generally only a few lines of code, like a function or a database request.
+## What to do next {#whattodonext}
+Start by paring down the body of the question. Explain how the problem arose and describe any difficulties found when trying to solve it. The first paragraph in a question is the second thing most readers will see, so make it as engaging and informative as possible.
 
 ## Leave a comment! {#leaveacomment}
 Once you have done this, leave a comment to the person who sent you this link. They will be happy to retract their downvote.
