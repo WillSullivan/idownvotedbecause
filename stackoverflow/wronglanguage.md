@@ -13,6 +13,13 @@ redirect_from:
 
 {::comment} I am delibrately avoiding contractions here, so ESL people can read it easier. {:/}
 
+[Français](https://translate.google.com/translate?sl=en&tl=fr&u=idownvotedbecau.se%2Fwronglanguage) | 
+[Español](https://translate.google.com/translate?sl=en&tl=es&u=idownvotedbecau.se%2Fwronglanguage) | 
+[中文](https://translate.google.com/translate?sl=en&tl=zh&u=idownvotedbecau.se%2Fwronglanguage) |
+[русский язык](https://translate.google.com/translate?sl=en&tl=ru&u=idownvotedbecau.se%2Fwronglanguage) |
+[Esperanto](https://translate.google.com/translate?sl=eo&tl=es&u=idownvotedbecau.se%2Fwronglanguage) | 
+[Add yours!](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})
+
 ## The post's language is not in English {#introduction}
 If a post is written in another language, users cannot comprehend what you write so the question cannot be answered.
 
