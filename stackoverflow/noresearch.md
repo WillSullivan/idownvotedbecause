@@ -14,11 +14,11 @@ Solving problems can be hard work. When we have exhausted our own knowledge, it'
 
 ## Why this is a problem {#whythisisaproblem}
 {::comment}In this section, detail why the post has problems{:/}
-We have asked a question, but we have not stated what research we have done. **This does not mean that we haven't researched our problem**, just that *evidence* of that research is lacking. People reading our question may not understand, if *they* know a little research would have found the solution, why we apparently haven't tried. They may suggest things we have already tried to do through our research, or they may just consider us to be lazy and move on. We risk downvotes and lose opportunities to get correct answers for our question.
+We have asked a question, but we have not stated what research we have done. **This does not mean that we haven't researched our problem**, just that *evidence* of that research is lacking. People reading our question may not understand, if *they* know a little research would have found the solution, why we apparently haven't tried. They may suggest things we have already tried to do through our research, or they may just consider us to be not cooperative and move on. We risk downvotes and lose opportunities to get correct answers for our question.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
 {::comment}In this section, you can describe why the problem is worth a downvote within the community in which it was posted{:/}
-The first part of the text which appears when hovering over the downvote button is "[t]his question does not show research effort". The first section on the [How to Ask](https://stackoverflow.com/help/how-to-ask) page is headed with "Search, and research". That's how important research is, not only to Stack Overflow, but to solving problems in general. We owe it to ourselves, and to those who volunteer to help us, to do our best to find solutions to our problems before asking for help.
+The first part of the text which appears when hovering over the downvote button is "This question does not show research effort". The first section on the [How to Ask](https://stackoverflow.com/help/how-to-ask) page is headed with "Search, and research". That's how important research is, not only to Stack Overflow, but to solving problems in general. We owe it to ourselves, and to those who volunteer to help us, to do our best to find solutions to our problems before asking for help.
 
 ## What to do next {#whattodonext}
 {::comment}In this section, cover how the problem can be fixed.{:/}
