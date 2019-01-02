@@ -19,7 +19,7 @@ See [What topics can I ask about here?](https://codereview.stackexchange.com/hel
 Read more about this topic in [this meta answer](https://codereview.meta.stackexchange.com/a/3650/120114).
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
-If code reviews were given on broken code, then when the code is fixed, the existing answers would likely become invalidated. This would was the time of the users who supplied the reviews.
+If code reviews were given on broken code, then when the code is fixed, the existing answers would likely become invalidated. This would waste the time of the users who supplied the reviews.
 
 ## What to do next {#whattodonext}
 Fix your code, and ensure you gave enough description of what the code should do. Also, ensure that the title descibes the code and not your goals for code review. 
