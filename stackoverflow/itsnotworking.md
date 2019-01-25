@@ -9,25 +9,25 @@ redirect_from:
   - ItDoesntWork
 ---
 ## "It's not working" is not helpful {#introduction}
-When someone asks a question about a problem with their code, we need to know what is wrong with it. Stating that "it doesn't work" is not helpful.
+In order for a question to be answered, it must specify what exactly is wrong. Stating simply that "it doesn't work" does not make for an answerable question.
 
 ## Why this is a problem {#whythisisaproblem}
-In order to provide a solution, we need a full description of the problem. That includes
+A question needs a full description of the problem before a solution can be provided. This description should include:
 
- 1. What you are trying to accomplish
- 2. What you have tried (including a [minimal, complete, and verifiable example](https://stackoverflow.com/help/mcve))
+ 1. What needs to be accomplished
+ 2. What has been tried already (including a [minimal, complete, and verifiable example](https://stackoverflow.com/help/mcve))
  3. A description of what the code did
- 4. A description of why this does not achieve your goal
+ 4. An explanation of why this behavior does not achieve the goal
 
-"It didn't work" is not an adequate description for points 3 and/or 4.
+"It didn't work" does not suffice for any of these points.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
-When one of these items is not provided, answerers have to guess what the missing pieces are. That increases the chances that their answers are incorrect, which is a waste of everyone's time. Without enough information to answer a question, experienced users are less likely to attempt to answer, and more likely to downvote. 
+When one of these items is not provided, answerers have to guess at what's been left out. This increases the chance that answers given are incorrect, thereby wasting both the answerer's and asker's time. Without enough information to answer a question, experienced users are less likely to attempt to answer, and more likely to downvote.
 
 ## What to do next {#whattodonext}
 Review your question. Did you provide a full description of what the code did? Did you point out the reasons why this result was not correct? Use the edit link at the bottom of your question (do *not* add a comment!) to provide these details. If commenters have asked pointed questions about what happened and why it wasn't correct, make sure to address these questions directly.
 
-If you do not know *why* your code did not work, that suggests you have not debugged it. Debugging is one of the first steps developers take when their code fails, and is an important skill to learn. Not debugging your code is also worth a downvote. To learn why, and for hints on how to debug your code, see our ["No Debugging" page](http://idownvotedbecau.se/nodebugging/).
+If you do not know *why* your code did not work, that suggests you have not debugged it. Debugging is one of the first steps developers take when their code fails, and is an important skill to learn. Not debugging your code is also worth a downvote. To learn why, and for hints on how to debug your code, [see "No Debugging"](http://idownvotedbecau.se/nodebugging/).
 
 {::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
 ## Leave a comment! {#leaveacomment}
