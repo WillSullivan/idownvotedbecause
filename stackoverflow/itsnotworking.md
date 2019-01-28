@@ -9,7 +9,7 @@ redirect_from:
   - ItDoesntWork
 ---
 ## "It's not working" is not helpful {#introduction}
-In order for a question to be answered, it must specify what exactly is wrong. Stating simply that "it doesn't work" does not make for an answerable question.
+In order for a question to be answered, it must specify what exactly is wrong. Stating simply that "it doesn't work" is not sufficient.
 
 ## Why this is a problem {#whythisisaproblem}
 A question needs a full description of the problem before a solution can be provided. This description should include:
@@ -19,15 +19,15 @@ A question needs a full description of the problem before a solution can be prov
  3. A description of what the code did
  4. An explanation of why this behavior does not achieve the goal
 
-"It didn't work" does not suffice for any of these points.
+Points 3 and 4 are very necessary to get correct answers quickly. Stating that "it doesn't work" is not sufficient.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
-When one of these items is not provided, answerers have to guess at what's been left out. This increases the chance that answers given are incorrect, thereby wasting both the answerer's and asker's time. Without enough information to answer a question, experienced users are less likely to attempt to answer, and more likely to downvote.
+When any one of these items is not provided, answerers have to guess at what's been left out. This increases the chance that answers given are incorrect, thereby wasting both the answerer's and asker's time. Without enough information to answer a question, experienced users are less likely to attempt to answer, and more likely to downvote.
 
 ## What to do next {#whattodonext}
-Review your question. Did you provide a full description of what the code did? Did you point out the reasons why this result was not correct? Use the edit link at the bottom of your question (do *not* add a comment!) to provide these details. If commenters have asked pointed questions about what happened and why it wasn't correct, make sure to address these questions directly.
+Review the question. Does it provide a full description of what the code did? Does it point out the reasons why this result was not correct? Use the edit link at the bottom of the question to provide these details. Comments should *not* be used to add these details to a question. If commenters have asked pointed questions about what happened and why it wasn't correct, make sure to address these questions directly in the edit.
 
-If you do not know *why* your code did not work, that suggests you have not debugged it. Debugging is one of the first steps developers take when their code fails, and is an important skill to learn. Not debugging your code is also worth a downvote. To learn why, and for hints on how to debug your code, [see "No Debugging"](http://idownvotedbecau.se/nodebugging/).
+If it is not known *why* your code did not work, that suggests the code as not been debugged. Debugging is one of the first steps developers take when their code fails, and is an important skill to learn. Not debugging a program before asking a question is also worth a downvote. To learn why, and for hints on how to debug code, [see "No Debugging"](http://idownvotedbecau.se/nodebugging/).
 
 {::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
 ## Leave a comment! {#leaveacomment}
