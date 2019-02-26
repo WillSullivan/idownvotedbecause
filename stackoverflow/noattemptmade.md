@@ -19,7 +19,7 @@ It can be seen as rude to ask others to complete tasks that are not their respon
 
 If effort has been made but is not detailed in the question, those who try to answer it are likely to duplicate effort, wasting their time and making it less likely that a proper answer is given.
 
-In some cases, simply asking the question may be a waste of the asker's time. Many times the research and effort required to properly prepare a question results in the asker finding the solution with less effort than would have been required to get the answer by asking a poorly-ressearched question. A simple search, [a little debugging](/nodebugging), and it would have been solved. And if asking the question would have wasted the asker's time, it certainly would have wasted the time of anyone who tried to answer.
+In some cases, simply asking the question may be a waste of the asker's time. Many times the research and effort required to properly prepare a question results in the asker finding the solution with less effort than would have been required to get the answer by asking a poorly-researched question. A simple search, [a little debugging](/nodebugging), and it would have been solved. And if asking the question would have wasted the asker's time, it certainly would have wasted the time of anyone who tried to answer.
 
 ## What to do next {#whattodonext}
 {::comment}In this section, cover how the problem can be fixed.{:/}
