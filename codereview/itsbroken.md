@@ -22,7 +22,7 @@ Read more about this topic in [this meta answer](https://codereview.meta.stackex
 If code reviews were given on broken code, then when the code is fixed, the existing answers would likely become invalidated. This would waste the time of the users who supplied the reviews.
 
 ## What to do next {#whattodonext}
-Fix your code, and ensure you gave enough description of what the code should do. Also, ensure that the title descibes the code and not your goals for code review. 
+Fix your code, and ensure you gave enough description of what the code should do. Also, ensure that the title describes the code and not your goals for code review. 
 
 If you do not know *why* your code did not work, that suggests you have not debugged it. Debugging is one of the first steps developers take when their code fails, and is an important skill to learn. Not debugging your code is also worth a downvote. To learn why, and for hints on how to debug your code, see our ["No Debugging" page](http://idownvotedbecau.se/nodebugging/).
 
