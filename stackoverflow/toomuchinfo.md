@@ -1,5 +1,5 @@
 ---
-title: Too much Info
+title: Too much information
 byline: a wall of text isn't helpful
 permalink: toomuchinfo/
 categories: "Stack Overflow"
@@ -21,7 +21,7 @@ The noise generated from all the text surrounding the error prevents future user
 When people are volunteering their time, free of charge, to help answer a question, appreciation can be shown by keeping the question consise--the minimum amount of detail needed to explain the problem. 
 
 ### Help others reproduce the problem
-Not all questions benefit from including code, but if the problem is with code that was written, some should be included. Isolate the issue, and create a Minimal, Complete, Verifiable example ([see the StackOverflow help center for more details](https://stackoverflow.com/help/mcve)). Such an example is generally only a few lines of code, like a function or a database request.
+Not all questions benefit from including code, but if the problem is with code that was written, some should be included. Isolate the issue, and create a Minimal, Complete, Verifiable example ([see the Stack Overflow help center for more details](https://stackoverflow.com/help/mcve)). Such an example is generally only a few lines of code, like a function or a database request.
 
 ## What to do next {#whattodonext}
 Start by paring down the body of the question. Explain how the problem arose and describe any difficulties found when trying to solve it. The first paragraph in a question is the second thing most readers will see, so make it as engaging and informative as possible.
@@ -31,4 +31,4 @@ Once you have done this, leave a comment to the person who sent you this link. T
 
 ## Did this page help you?
 This website is here for everyone's benefit, most importantly yours! If this did <i>not</i> help you, or if you would
-like to leave feedback, please **[create an Issue regarding this page on GitHub,](https://github.com/WillSullivan/IDownvotedBecause/issues/new) or [submit an improvement directly.](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})**
+like to leave feedback, please **[create an issue regarding this page on GitHub,](https://github.com/WillSullivan/IDownvotedBecause/issues/new) or [submit an improvement directly.](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})**
