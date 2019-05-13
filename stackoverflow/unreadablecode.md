@@ -20,11 +20,11 @@ It indicates the asker did not want to spend the effort asking a good question. 
 ## What to do next {#whattodonext}
 Code should always be in the form of a Minimal, Complete, Verifiable Example (see [the Stack Overflow help center](https://stackoverflow.com/help/mcve) for details on how to do this).
 
-Code should always follow the indentation standard of the language it is written in. More on indentation styles can be found on [Wikipedia](https://en.wikipedia.org/wiki/Indentation_style)
+Code should always follow the indentation standard of the language it is written in. More on indentation styles can be found on [Wikipedia](https://en.wikipedia.org/wiki/Indentation_style).
 
 Code can be made easier to read if blank lines are used to separate logical chunks, like spaces separate paragraphs. Code should avoid empty lines that do not serve any purpose at all. As a rule of thumb, code should always be "pleasing to the eye?"
 
-Variables and functions should have clear names that describe what they do. A variable with a good name does not need a description of what it holds or why. Stack Overflow is an english-only website, and as such it is preferable to use English names.
+Variables and functions should have clear names that describe what they do. A variable with a good name does not need a description of what it holds or why. Stack Overflow is an English-only website, and as such it is preferable to use English names.
 
 Code should have comments where necessary. Where variable and function names should describe what they do, comments describe *why*. Having comments inline with code can make it easier for readers to quickly understand the code. Comments that indicate areas where problems lie are always welcome.
 

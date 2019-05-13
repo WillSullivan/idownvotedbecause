@@ -1,5 +1,5 @@
 ---
-title: Wrong Language
+title: Wrong language
 byline: the question is not posted in English
 permalink: wronglanguage
 categories: "Stack Overflow"
