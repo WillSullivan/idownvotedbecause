@@ -30,4 +30,4 @@ Once you have read this, leave a comment to the person who sent you this link. T
 
 ## Did this page help you?
 This website is here for everyone's benefit, most importantly yours! If this did <i>not</i> help you, or if you would
-like to leave feedback, please **[create an Issue regarding this page on GitHub,](https://github.com/WillSullivan/IDownvotedBecause/issues/new) or [submit an improvement directly.](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})**
+like to leave feedback, please **[create an issue regarding this page on GitHub,](https://github.com/WillSullivan/IDownvotedBecause/issues/new) or [submit an improvement directly.](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})**
