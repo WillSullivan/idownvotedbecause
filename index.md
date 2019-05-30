@@ -21,7 +21,7 @@ This website hosts one page per reason for a downvote. Each reason has its own U
 When you wish to let someone know why you downvoted and how they could reverse it, simply leave a link to the relevant page.
 
 ## All the reasons*
-Here's the current list of all pages, sorted by community!  Not finding something you want? [See below to learn how to get it!](#call-to-action) Please note, this website is not affiliated in any way with any of the organizations or websites below.
+Here's the current list of all pages, sorted by community!  Not finding something you want? [See below to learn how to get it!](#you-can-help-make-this-website-better) Please note, this website is not affiliated in any way with any of the organizations or websites below.
 
 {% for cat in site.category-list %}
 ### {{ cat }}
