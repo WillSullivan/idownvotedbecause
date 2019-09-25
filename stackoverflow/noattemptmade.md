@@ -29,7 +29,7 @@ Stating that nothing was found when "googling" is not helpful. Instead, list sea
 
 If no effort was made before asking the question and noone has yet attempted to answer the question, save the link to the question and delete it immediately. Edit the question and describe the effort to attempt to find a solution. Do some research, documenting what research was done, what was found, and, if it didn't solve the problem, why. Create a small prototype that isolates the issue. Make at least one attempt at implementing a solution. 
 
-If the solution still proves illusive after taking these steps, return to the deleted question using the saved link. Edit it and add the details of the research done and solutions attempted. Then undelete the question. It now has enough information for people to quickly provide helpful answers.
+If the solution still proves elusive after taking these steps, return to the deleted question using the saved link. Edit it and add the details of the research done and solutions attempted. Then undelete the question. It now has enough information for people to quickly provide helpful answers.
 
 {::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
 ## Leave a comment! {#leaveacomment}
