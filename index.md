@@ -2,6 +2,7 @@
 title: I downvoted because...
 byline: — a website designed to help you help others!
 ---
+ [Like this website? Want to take charge of it to ensure it stays around?](https://github.com/WillSullivan/idownvotedbecause/issues/131)
  
 # This website is designed to help people understand why you downvoted.
 
