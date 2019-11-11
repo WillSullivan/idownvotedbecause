@@ -17,6 +17,7 @@ redirect_from:
 [Español](https://translate.google.com/translate?sl=en&tl=es&u=idownvotedbecau.se%2Fwronglanguage) | 
 [中文](https://translate.google.com/translate?sl=en&tl=zh&u=idownvotedbecau.se%2Fwronglanguage) |
 [русский язык](https://translate.google.com/translate?sl=en&tl=ru&u=idownvotedbecau.se%2Fwronglanguage) |
+[Portuguese (Brazil)](https://translate.google.com/translate?sl=en&tl=pt-BR&u=idownvotedbecau.se%2Fwronglanguage) |
 [Add yours!](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})
 
 ## The post's language is not in English {#introduction}
