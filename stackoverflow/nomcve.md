@@ -14,6 +14,7 @@ A question without any code, or where the code provided is not
  * minimal – as little code as possible that still produces the same problem
  * complete – contains all parts needed to reproduce the problem
  * verifiable – would compile if run, and exhibits the problem described in the question
+
 cannot be easily, if at all, answered.
 
 When a code sample has these qualities, it is generally referred to as an [MCVE](https://stackoverflow.com/help/mcve).
