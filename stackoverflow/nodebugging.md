@@ -17,11 +17,19 @@ Without making the effort to debug failing code, the less obvious the problem is
 Without debugging, you risk wasting the time of those who are trying to help you. If the problem is easy to fix, and would have become self evident when debugging, there was no need to ask the question in the first place. Time you spent composing the question could have been spent fixing your problem. Time others spent reading your question could have been spent helping others with harder to diagnose problems. And when your problem *is* hard, without isolating the issue through debugging, it requires others to **guess** at the possible causes. There will be much more back-and-forth over possible causes and solutions, taking much more time than was necessary to fix your problem. Debugging helps prevent all of this.
 
 ## What to do next {#whattodonext}
-Debug your code! Execute your code with your favorite IDE's debugger attached, or use your browser's developer tools for client-side JavaScript. Place breakpoints near where your code fails. Examine variables and their contents at runtime. Watch your logic evaluate these variables and examine the results for correctness. You may find what you believed to be the result was not, allowing you to fix your algorithm. Or you may not understand why the algorithm was failing. Record all of this information--the algorithm, your variable's values, and what the unexpected result was. You will need it to compose a good question!
+Debug your code! 
 
-Once you have debugged your code, take everything that you have learned and edit your question. Note: don't add this information as one or more comments on your question! Add all your findings in a clear and well-formatted edit. Add missing code, if any, that is relevant to the question.
+Execute your code with your favorite IDE's debugger attached, or use your browser's developer tools for client-side JavaScript. 
 
-If you found the solution to your problem when debugging, and that solution may be useful to others, you can add an answer to your question with details about what you did and what you found while debugging.  If other people answered your question, and they were somewhat or exactly right, select the best one as correct. If your answer is the only one, after the required waiting period, you can select your answer as correct and close out the question. It may seem odd, but that's how we handle this situation.  If your answer is of no use to anyone else, and no one has answered your question, you can simply delete it.
+Place breakpoints near where your code fails. Examine variables and their contents at runtime. Watch your logic evaluate these variables and examine the results for correctness. 
+
+If you are doing anything involving a network (e.g. Ajax) then monitor the network traffic (e.g. using the Network tab in your browser's developer tools) to see if the data being sent and recieved is what you expect.
+
+You may find what you believed to be the result was not, allowing you to fix your algorithm. Or you may not understand why the algorithm was failing. Record all of this information--the algorithm, your variable's values, and what the unexpected result was. You will need it to compose a good question!
+
+Once you have debugged your code, take everything that you have learned — even negative results such as "No error messages were displayed in the developer tools Console" — and edit your question. Note: don't add this information as one or more comments on your question! Add all your findings in a clear and well-formatted edit. Add missing code, if any, that is relevant to the question.
+
+If you found the solution to your problem when debugging, and that solution may be useful to others, you can add an answer to your question with details about what you did and what you found while debugging.  If other people answered your question, and they were somewhat or exactly right, select the best one as correct. If your answer is the only one, after the required waiting period, you can select your answer as correct and close out the question. It may seem odd, but that's how we handle this situation.  If your answer is of no use to anyone else (perhaps you discovered you had made a simple typo), and no one has answered your question, you can simply delete it.
 
 ### How to debug {#howtodebug}
 Often times new developers do not know how to debug their code. Following are a number of different articles detailing how to debug code using different tools.
