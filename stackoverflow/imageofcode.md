@@ -7,6 +7,12 @@ redirect_from:
   - ImageofCode
   - imagesofcode
   - imagesofyourcode
+  - ImageOfCode
+  - ImagesOfCode
+  - ImagesOfYourCode
+  - imageOfCode
+  - imagesOfCode
+  - imagesOfYourCode
 ---
 ## An image of your code is not helpful {#introduction}
 {::comment}In this paragraph, give the user the tl;dr lowdown. {:/}When asking a question about a problem with code, people who are volunteering to help need the text of the code. Images of the code are not an acceptable substitute.
