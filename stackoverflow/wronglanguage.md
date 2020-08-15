@@ -9,6 +9,9 @@ redirect_from:
   - Wronglanguage
   - language
   - Language
+  - MauvaiseLangue
+  - LenguajeEquivocado
+  - YuYanCuoWu
 ---
 
 {::comment} I am delibrately avoiding contractions here, so ESL people can read it easier. {:/}
