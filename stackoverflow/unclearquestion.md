@@ -8,6 +8,11 @@ redirect_from:
   - notclear
   - noquestion
   - unclearwhatyoureasking
+  - unclearwhatyouareasking
+  - UnClear
+  - NotClear
+  - UnclearWhatYoureAsking
+  - UnclearWhatYouAreAsking
 linkText: The people who volunteer to help others with a question are not intimately familiar with the problem as the person who has struggled to solve it. Because to this, questions must be crystal clear to the people who wish to help.
 ---
 
