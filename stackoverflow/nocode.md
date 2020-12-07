@@ -20,7 +20,7 @@ Without the code, the question is not answerable. Any solution would be based on
 It can also show that not much effort was put into writing the question. Remember, people with lots of experience are volunteering their time, for free, to help.  Giving these people enough information to answer questions is the most important thing anyone asking for help can do. Failing to do so *wastes people's time*, which is seen as rude, which can attract downvotes. It also makes it less likely to attract answers. 
 
 ## What to do next {#whattodonext}
-Edit the post to add a Minimal, Complete, Verifiable Example (see [the Stack Overflow help center](https://stackoverflow.com/help/mcve) for details on how to do this).
+Edit the post to add a Minimal, Reproducible Example (see [the Stack Overflow help center](https://stackoverflow.com/help/minimal-reproducible-example) for details on how to do this).
 
 The code should not be [directly copy/pasted]({% link stackoverflow/toomuchcode.md %}) in its *original* form. Instead, it should be cut down to only keep the parts essential to identify and reproduce the issue. This reduced and isolated code should be tested to verify it exhibits the same issues as the original. This is commonly referred to as an [MCVE](https://stackoverflow.com/help/mcve). Once code is reduced to the minimal amount that still exhibits the problem, it should be edited into the question.
 
