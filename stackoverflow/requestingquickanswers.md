@@ -1,7 +1,7 @@
 ---
 title: Unhelpful information ("this is urgent")
 byline: We are not a 24/7 tech support chat. Please don't ask urgent questions.
-permalink: unhelpfulinformation
+permalink: urgency
 categories: "Stack Overflow"
 redirect_from:
   - urgent
@@ -9,7 +9,6 @@ redirect_from:
   - sayingurgent
   - impatience
   - beingimpatient
-  - toomuchinformation
 linkText: “Your lack of planning is not my emergency.” – [fuz](https://meta.stackoverflow.com/questions/326569/under-what-circumstances-may-i-add-urgent-or-other-similar-phrases-to-my-quest#comment768346_326569)
 ---
 ## Requesting quick answers adds noise {#introduction}
@@ -22,7 +21,10 @@ Questions on Stack Overflow are never prioritised. Information such as "I am und
 If you think a question is urgent, you can try Stack Overflow, but chats are much better for this purpose. Those are designed to give quick answers. Stack Overflow is meant for people to share information, not for you to get a quick and easy answer. Finally, things like "Please reply ASAP!" are not useful to future readers, which is the opposite of Stack Overflow's goal.
 
 ## What to do next {#whattodonext}
-Please edit your question to remove the unhelpful information. Adding a bounty to your question may help to get quicker answers.
+Please edit your question to remove the sense of urgency. Adding a bounty to your question may help to get quicker answers.
+
+## More information {#seealso}
+See [toomuchinfo](toomuchinfo.md)
 
 {::comment}The following paragraphs should be added as is to the bottom of all pages{:/}
 ## Leave a comment! {#leaveacomment}
