@@ -1,5 +1,5 @@
 ---
-title: Unhelpful information ("this is urgent")
+title: Sense of urgency
 byline: We are not a 24/7 tech support chat. Please don't ask urgent questions.
 permalink: urgency
 categories: "Stack Overflow"
