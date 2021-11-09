@@ -50,6 +50,9 @@ For a tutorial using the [Gnu Debugger](http://www.gnu.org/software/gdb/) to deb
 #### MATLAB {#matlab}
 To learn how to debug your MATLAB program in the MATLAB editor, [visit this link](https://www.mathworks.com/help/matlab/matlab_prog/debugging-process-and-features.html).
 
+#### Python (#python)
+[pythontutor.com](https://pythontutor.com/) is a beginner friendly online tool to run and debug your Python, Java, C, C++, JavaScript, and Ruby code. Additionally, Thonny is a beginner friendly IDE for Python that you can download from [thonny.org](https://thonny.org/).
+
 #### Your favorite IDE
 Have a favorite IDE/Language combo you want to add to this list? [Submit your addition here!](https://github.com/WillSullivan/IDownvotedBecause/edit/master/{{ page.path }})
 
